@@ -1,0 +1,4694 @@
+{
+  "tiger":[
+    {
+      "name": "Bengal Tiger",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Felidae",
+        "genus": "Panthera",
+        "scientific_name": "Panthera Tigris Tigris"
+      },
+      "locations": [
+        "Asia"
+      ],
+      "characteristics": {
+        "main_prey": "Deer, Cattle, Wild Boar",
+        "habitat": "Dense tropical forest and mangroves",
+        "predators": "Human",
+        "diet": "Carnivore",
+        "average_litter_size": "3",
+        "lifestyle": "Solitary",
+        "favorite_food": "Deer",
+        "type": "Mammal",
+        "slogan": "The most numerous species of tiger!",
+        "color": "BlackWhiteOrange",
+        "skin_type": "Fur",
+        "top_speed": "60 mph",
+        "lifespan": "18 - 25 years",
+        "weight": "140kg - 300kg (309lbs - 660lbs)",
+        "length": "2.4m - 3.3m (6.8ft - 11ft)"
+      }
+    },
+    {
+      "name": "Indochinese Tiger",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Felidae",
+        "genus": "Panthera",
+        "scientific_name": "Panthera Tigris Corbetti"
+      },
+      "locations": [
+        "Asia"
+      ],
+      "characteristics": {
+        "main_prey": "Deer, Cattle, Wild Boar",
+        "habitat": "Secluded mountainous forests",
+        "predators": "Human",
+        "diet": "Carnivore",
+        "average_litter_size": "2",
+        "lifestyle": "Solitary",
+        "favorite_food": "Deer",
+        "type": "Mammal",
+        "slogan": "Now thought to be extinct in China!",
+        "color": "BlackWhiteOrange",
+        "skin_type": "Fur",
+        "top_speed": "60 mph",
+        "lifespan": "18 - 25 years",
+        "weight": "100kg - 195kg (221lbs - 430lbs)"
+      }
+    },
+    {
+      "name": "Malayan Tiger",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Felidae",
+        "genus": "Panthera",
+        "scientific_name": "Panthera Tigris Jacksoni"
+      },
+      "locations": [
+        "Asia"
+      ],
+      "characteristics": {
+        "main_prey": "Deer, Cattle, Wild Boar",
+        "habitat": "Dense tropical forest",
+        "predators": "Human",
+        "diet": "Carnivore",
+        "average_litter_size": "3",
+        "lifestyle": "Solitary",
+        "favorite_food": "Deer",
+        "type": "Mammal",
+        "slogan": "Found in less-dense jungles!",
+        "color": "BlackWhiteOrange",
+        "skin_type": "Fur",
+        "top_speed": "60 mph",
+        "lifespan": "18 - 25 years",
+        "weight": "80kg - 150kg (176lbs - 330lbs)"
+      }
+    },
+    {
+      "name": "Saber-Toothed Tiger",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Felidae",
+        "genus": "Smilodon",
+        "scientific_name": "Smilodon populator"
+      },
+      "locations": [
+        "Central-America",
+        "North-America",
+        "South-America"
+      ],
+      "characteristics": {
+        "main_prey": "Deer, Bison, Woolly Mammoth",
+        "distinctive_feature": "Large muscular body and long canine teeth",
+        "habitat": "Forests and grasslands",
+        "predators": "Humans",
+        "diet": "Carnivore",
+        "average_litter_size": "3",
+        "lifestyle": "Pack",
+        "favorite_food": "Deer",
+        "type": "Mammal",
+        "slogan": "Canines up to 7 inches long!",
+        "color": "BrownYellowBlackWhiteTan",
+        "skin_type": "Fur",
+        "lifespan": "20 - 40 years",
+        "weight": "300kg (661lbs)",
+        "length": "2m - 2.5m (79in - 98in)"
+      }
+    },
+    {
+      "name": "Sand Tiger Shark",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Chondrichthyes",
+        "order": "Lamniformes",
+        "family": "Odontaspididae"
+      },
+      "locations": [
+        "Ocean"
+      ],
+      "characteristics": {
+        "prey": "Bony fish, other sharks, crustaceans, squid, skates and rays",
+        "group_behavior": "Solitary/Group",
+        "estimated_population_size": "Unknown, but its population decreased by 20 percent in just the last decade due to overfishing.",
+        "biggest_threat": "Humans",
+        "average_litter_size": "3",
+        "most_distinctive_feature": "It gulps air to keep buoyant.",
+        "other_name(s)": "spotted ragged-tooth shark, blue-nurse sand tiger, grey nurse shark, spotted sand tiger shark, chien de mer, dogfish shark, slender-tooth shark, magonga, requin taureau, ground shark",
+        "gestation_period": "Eight to twelve months",
+        "habitat": "Shallow tropical and temperate waters close to the shore",
+        "diet": "Carnivore",
+        "type": "Fish",
+        "common_name": "Sand tiger shark",
+        "number_of_species": "4",
+        "color": "Grey-Brown",
+        "skin_type": "Rough",
+        "top_speed": "0.87 mph",
+        "lifespan": "13 to 35 years",
+        "weight": "110 to 660.79 pounds",
+        "length": "6.6 to 10.5 feet"
+      }
+    },
+    {
+      "name": "Siberian Tiger",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Felidae",
+        "genus": "Panthera",
+        "scientific_name": "Panthera Tigris Altaica"
+      },
+      "locations": [
+        "Asia",
+        "Eurasia"
+      ],
+      "characteristics": {
+        "main_prey": "Deer, Cattle, Wild Boar",
+        "habitat": "Dense tropical forest",
+        "predators": "Human",
+        "diet": "Carnivore",
+        "average_litter_size": "3",
+        "lifestyle": "Solitary",
+        "favorite_food": "Deer",
+        "type": "Mammal",
+        "slogan": "Also known as the Amur tiger!",
+        "color": "BlackWhiteOrange",
+        "skin_type": "Fur",
+        "top_speed": "60 mph",
+        "lifespan": "18 - 25 years",
+        "weight": "100kg - 350kg (220lbs - 770lbs)"
+      }
+    },
+    {
+      "name": "South China Tiger",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Felidae",
+        "genus": "Panthera",
+        "scientific_name": "Panthera Tigris Amoyensis"
+      },
+      "locations": [
+        "Asia"
+      ],
+      "characteristics": {
+        "main_prey": "Deer, Cattle, Wild Boar",
+        "habitat": "Dense tropical forest",
+        "predators": "Human",
+        "diet": "Carnivore",
+        "average_litter_size": "3",
+        "lifestyle": "Solitary",
+        "favorite_food": "Deer",
+        "type": "Mammal",
+        "slogan": "There are less than 20 in the wild!",
+        "color": "BlackWhiteOrange",
+        "skin_type": "Fur",
+        "top_speed": "60 mph",
+        "lifespan": "18 - 25 years",
+        "weight": "100kg - 195kg (221lbs - 430lbs)"
+      }
+    },
+    {
+      "name": "Sumatran Tiger",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Felidae",
+        "genus": "Panthera",
+        "scientific_name": "Panthera Tigris Sumatrae"
+      },
+      "locations": [
+        "Asia"
+      ],
+      "characteristics": {
+        "main_prey": "Deer, Cattle, Wild Boar",
+        "habitat": "Dense tropical forest",
+        "predators": "Human",
+        "diet": "Carnivore",
+        "average_litter_size": "3",
+        "lifestyle": "Solitary",
+        "favorite_food": "Deer",
+        "type": "Mammal",
+        "slogan": "The smallest species of tiger!",
+        "color": "BlackWhiteOrange",
+        "skin_type": "Fur",
+        "top_speed": "60 mph",
+        "lifespan": "18 - 25 years",
+        "weight": "80kg - 150kg (176lbs - 330lbs)"
+      }
+    },
+    {
+      "name": "Tasmanian Tiger",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Dasyuromorphia",
+        "family": "†Thylacinidae",
+        "genus": "†Thylacinus",
+        "scientific_name": "†Thylacinus cynocephalus"
+      },
+      "locations": [
+        "Oceania"
+      ],
+      "characteristics": {
+        "prey": "Birds, kangaroos, wombats, emus, possums, wallabies. echidnas, bettongs, bandicoots, potoroos and small livestock",
+        "name_of_young": "Joey",
+        "average_litter_size": "3",
+        "group_behavior": "Solitary",
+        "estimated_population_size": "Possibly extinct",
+        "biggest_threat": "Humans",
+        "most_distinctive_feature": "Marsupial pouch",
+        "other_name(s)": "Tasmanian wolf, thylacine, kaparunina, loarinna, laoonana, coorinna, kanunnah, cab-berr-one-nen-er, lagunta, can-nen-ner",
+        "gestation_period": "Two weeks, possibly",
+        "litter_size": "Two to four joeys",
+        "habitat": "Grasslands and forests, rainforests",
+        "predators": "None, save humans and dingos",
+        "diet": "Carnivore",
+        "type": "Marsupial",
+        "common_name": "Tasmanian tiger",
+        "number_of_species": "1",
+        "location": "Tasmania",
+        "group": "Solitary",
+        "color": "TanDark Brown",
+        "skin_type": "Fur",
+        "lifespan": "Eight to 10 years",
+        "weight": "18 to 66 pounds",
+        "height": "24 inches at the shoulder",
+        "length": "39 to 51 inches plus 20 to 26-inch tail",
+        "age_of_sexual_maturity": "Unknown",
+        "age_of_weaning": "Two months"
+      }
+    },
+    {
+      "name": "Tiger",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Felidae",
+        "genus": "Panthera",
+        "scientific_name": "Panthera Tigris"
+      },
+      "locations": [
+        "Asia",
+        "Eurasia"
+      ],
+      "characteristics": {
+        "main_prey": "Deer, Cattle, Wild Boar",
+        "habitat": "Dense tropical forest",
+        "predators": "Human",
+        "diet": "Carnivore",
+        "average_litter_size": "3",
+        "lifestyle": "Solitary",
+        "favorite_food": "Deer",
+        "type": "Mammal",
+        "slogan": "The largest feline in the world!",
+        "color": "BlackWhiteOrange",
+        "skin_type": "Fur",
+        "top_speed": "60 mph",
+        "lifespan": "18-25 years",
+        "weight": "267-300kg (589-660lbs)"
+      }
+    },
+    {
+      "name": "Tiger Beetle",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Arthropoda",
+        "class": "Insecta",
+        "order": "Coleoptera",
+        "family": "Carabidae",
+        "genus": "Cicindela",
+        "scientific_name": "Cicindelinae"
+      },
+      "locations": [
+        "Africa",
+        "Antarctica",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Oceania",
+        "South-America"
+      ],
+      "characteristics": {
+        "prey": "spiders and insects",
+        "name_of_young": "larvae",
+        "group_behavior": "Solitary",
+        "average_litter_size": "3",
+        "biggest_threat": "Habitat destruction",
+        "most_distinctive_feature": "The iridescent metallic shell",
+        "gestation_period": "a few days or weeks",
+        "litter_size": "3-4 eggs per day",
+        "habitat": "ground",
+        "diet": "Carnivore",
+        "type": "insect",
+        "common_name": "Tiger beetle",
+        "number_of_species": "2600",
+        "location": "worldwide",
+        "color": "RedBlueBlackWhiteGreenOrange",
+        "skin_type": "Exoskeleton",
+        "top_speed": "3.5 mph",
+        "lifespan": "1-4 years",
+        "weight": "less than 1 gram",
+        "length": "up to 1 inch",
+        "age_of_sexual_maturity": "1-4 years"
+      }
+    },
+    {
+      "name": "Tiger Moth",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Arthropoda",
+        "class": "Insecta",
+        "order": "Lepidoptera",
+        "family": "Erebidae",
+        "genus": "Arctia"
+      },
+      "locations": [
+        "Asia",
+        "Eurasia",
+        "Europe",
+        "North-America"
+      ],
+      "characteristics": {
+        "name_of_young": "Caterpillar, larva",
+        "group_behavior": "Solitary",
+        "biggest_threat": "Habitat loss",
+        "most_distinctive_feature": "Brightly colored pattern on its wings",
+        "other_name(s)": "Woolly bear (caterpillars)",
+        "gestation_period": " Eggs hatch in 10 days",
+        "wingspan": "1.5-2 inches",
+        "average_litter_size": "5",
+        "litter_size": "50 or more",
+        "habitat": "Grasslands, forests",
+        "predators": "Some birds",
+        "diet": "Herbivore",
+        "favorite_food": "plants, nectar",
+        "type": "Insect",
+        "common_name": "tiger moth",
+        "number_of_species": "11000",
+        "location": "North America, Europe, Central Asia, Northern Asia",
+        "color": "RedBlackWhiteGreenOrange",
+        "skin_type": "Hair",
+        "lifespan": "5-10 days",
+        "weight": "less than 1 ounce"
+      }
+    },
+    {
+      "name": "Tiger Rattlesnake",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Squamata",
+        "family": "Viperidae",
+        "genus": "Crotalus",
+        "scientific_name": "C. tigris"
+      },
+      "locations": [
+        "Central-America",
+        "North-America"
+      ],
+      "characteristics": {
+        "prey": "Small mammals and lizards",
+        "main_prey": "Adults - mainly small mammals; juveniles - mainly lizards",
+        "name_of_young": "Neonate",
+        "group_behavior": "SolitarySolitary except during mating season",
+        "estimated_population_size": "10,000",
+        "biggest_threat": "Human expansion",
+        "most_distinctive_feature": "Small head and large rattle",
+        "distinctive_feature": "\"Tiger stripes\" in the form of crossbands down the length of the snake",
+        "other_name(s)": "Tiger rattler",
+        "diet": "Carnivore",
+        "average_litter_size": "6-10",
+        "lifestyle": "NocturnalCrepuscular",
+        "common_name": "Tiger Rattlesnake",
+        "location": "Central Arizona south to northern Mexico",
+        "color": "BrownYellowFawnTanOrangeLilac",
+        "skin_type": "Scales",
+        "type": "Insect",
+        "length": "2-3 feet",
+        "lifespan": "5-15 year",
+        "venomous": "Yes",
+        "aggression": "Low"
+      }
+    },
+    {
+      "name": "Tiger Salamander",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Amphibia",
+        "order": "Caudata",
+        "family": "Ambystomatidae",
+        "genus": "Ambystoma",
+        "scientific_name": "Ambystoma tigrinum"
+      },
+      "locations": [
+        "North-America",
+        "Ocean"
+      ],
+      "characteristics": {
+        "main_prey": "Insects, Worms, Small Frogs",
+        "habitat": "Wetlands, rivers and streams",
+        "predators": "Raccoon, Coati, River Turtles",
+        "diet": "Carnivore",
+        "lifestyle": "Solitary",
+        "favorite_food": "Insects",
+        "type": "Amphibian",
+        "average_litter_size": "2",
+        "average_clutch_size": "50",
+        "slogan": "Found across the North American wetlands!",
+        "color": "BrownGreyYellowBlackGreen",
+        "skin_type": "Permeable",
+        "top_speed": "10 mph",
+        "lifespan": "10-15 years",
+        "weight": "113-227g (4-8oz)"
+      }
+    },
+    {
+      "name": "Tiger Shark",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Chondrichthyes",
+        "order": "Carcharhiniformes",
+        "family": "Carcharhinidae",
+        "genus": "Galeocerdo",
+        "scientific_name": "Galeocerdo Cuvier"
+      },
+      "locations": [
+        "Ocean"
+      ],
+      "characteristics": {
+        "main_prey": "Squid, Fish, Turtles",
+        "habitat": "Tropical coastal waters",
+        "predators": "Human",
+        "diet": "Carnivore",
+        "average_litter_size": "35",
+        "lifestyle": "Solitary",
+        "favorite_food": "Squid",
+        "type": "Fish",
+        "slogan": "The fourth biggest species of shark in the world!",
+        "color": "BrownGreyBlackWhite",
+        "skin_type": "Smooth",
+        "top_speed": "20 mph",
+        "lifespan": "30-40 years",
+        "weight": "385-635kg (850-1,400lbs)"
+      }
+    },
+    {
+      "name": "White Tiger",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Felidae",
+        "genus": "Panthera",
+        "scientific_name": "Panthera tigris tigris"
+      },
+      "locations": [
+        "Asia",
+        "Eurasia"
+      ],
+      "characteristics": {
+        "prey": "Deer, Cattle, Wild Boar",
+        "name_of_young": "Cub",
+        "group_behavior": "Solitary",
+        "estimated_population_size": "0 in wild",
+        "biggest_threat": "Habitat loss",
+        "most_distinctive_feature": "White fur with bright, blue eyes",
+        "other_name(s)": "White Bengal Tiger",
+        "gestation_period": "103 days",
+        "habitat": "Dense jungle and mangrove swamp",
+        "predators": "Human",
+        "diet": "Carnivore",
+        "average_litter_size": "3",
+        "lifestyle": "Diurnal",
+        "common_name": "White Tiger",
+        "number_of_species": "1",
+        "location": "Indian subcontinent",
+        "slogan": "None have been seen in the wild for 50 years!",
+        "group": "Mammal",
+        "color": "BrownBlackWhiteOrange",
+        "skin_type": "Fur",
+        "top_speed": "60 mph",
+        "lifespan": "10 - 20 years",
+        "weight": "140kg - 300kg (309lbs - 660lbs)",
+        "length": "2.4m - 3.3m (6.8ft - 11ft)",
+        "age_of_sexual_maturity": "3 - 4 years",
+        "age_of_weaning": "6 months",
+        "type": "Amphibian"
+      }
+    }
+  ],
+  "monkey": [
+    {
+      "name": "Howler Monkey",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Primates",
+        "family": "Atelidae",
+        "genus": "Alouatta",
+        "scientific_name": "Alouatta"
+      },
+      "locations": [
+        "Central-America",
+        "South-America"
+      ],
+      "characteristics": {
+        "main_prey": "Fruit, Nuts, Seeds",
+        "habitat": "Rainforest and dense jungle",
+        "predators": "Jaguar, Snakes, Birds",
+        "diet": "Omnivore",
+        "average_litter_size": "1",
+        "lifestyle": "Troop",
+        "favorite_food": "Fruit",
+        "type": "Mammal",
+        "slogan": "Spends 80% of it's time resting!",
+        "color": "BrownBlackTan",
+        "skin_type": "Hair",
+        "top_speed": "18 mph",
+        "lifespan": "15-20 years",
+        "weight": "3-9kg (6.6-20lbs)"
+      }
+    },
+    {
+      "name": "Monkey",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Primates",
+        "family": "Cebidae",
+        "scientific_name": "Macaca Fascicularis"
+      },
+      "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Oceania",
+        "South-America"
+      ],
+      "characteristics": {
+        "main_prey": "Fruit, Seeds, Insects",
+        "habitat": "Tropical forests, grasslands and mountainous plains",
+        "predators": "Birds, Snakes, Wildcats",
+        "diet": "Omnivore",
+        "average_litter_size": "1",
+        "lifestyle": "Troop",
+        "favorite_food": "Fruit",
+        "type": "Mammal",
+        "slogan": "There are around 260 known species!",
+        "color": "BrownGreyYellowBlackWhiteTan",
+        "skin_type": "Hair",
+        "top_speed": "35 mph",
+        "lifespan": "10-30 years",
+        "weight": "0.1-30kg (0.22-60lbs)"
+      }
+    },
+    {
+      "name": "Patas Monkey",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Primates",
+        "family": "Cercopithecidae",
+        "genus": "Erythrocebus",
+        "scientific_name": "Erythrocebus patas"
+      },
+      "locations": [
+        "Africa"
+      ],
+      "characteristics": {
+        "prey": "Fruit, Insects, Eggs",
+        "name_of_young": "Infant",
+        "group_behavior": "Troop",
+        "estimated_population_size": "Decreasing",
+        "biggest_threat": "Hunting and capture",
+        "most_distinctive_feature": "Red back and white moustache and beard",
+        "other_name(s)": "Military Monkey, Hussar Monkey, Red Guenon",
+        "gestation_period": "5 months",
+        "habitat": "Savanna and open woodland",
+        "predators": "Leopard, Hyena, Lion",
+        "diet": "Omnivore",
+        "average_litter_size": "1",
+        "lifestyle": "Diurnal",
+        "type": "Mammal",
+        "common_name": "Patas Monkey",
+        "number_of_species": "1",
+        "location": "Central Africa",
+        "slogan": "The fastest species of primate in the world!",
+        "group": "Mammal",
+        "color": "BrownGreyRedBlackWhite",
+        "skin_type": "Hair",
+        "top_speed": "35 mph",
+        "lifespan": "12 - 20 years",
+        "weight": "4kg - 13kg (8.8lbs - 28.6lbs)",
+        "height": "45cm - 85cm (18in - 33in)",
+        "age_of_sexual_maturity": "3 - 5 years",
+        "age_of_weaning": "6 months"
+      }
+    },
+    {
+      "name": "Proboscis Monkey",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Primates",
+        "family": "Cercopithecidae",
+        "genus": "Nasalis",
+        "scientific_name": "Nasalis larvatus"
+      },
+      "locations": [
+        "Asia"
+      ],
+      "characteristics": {
+        "prey": "Leaves, Shoots, Fruits",
+        "name_of_young": "Infant",
+        "group_behavior": "Troop",
+        "estimated_population_size": "7,000",
+        "biggest_threat": "Habitat loss",
+        "most_distinctive_feature": "Long, fleshy nose and swollen stomach",
+        "other_name(s)": "Long-Nosed Monkey",
+        "gestation_period": "166 days",
+        "habitat": "Coastal mangroves and riverine forests",
+        "predators": "Clouded Leopard, Crocodile, Human",
+        "diet": "Omnivore",
+        "average_litter_size": "1",
+        "lifestyle": "Diurnal",
+        "common_name": "Proboscis Monkey",
+        "number_of_species": "2",
+        "location": "Borneo",
+        "slogan": "Natively found on the island of Borneo!",
+        "group": "Mammal",
+        "color": "BrownGreyRedWhiteTanOrange",
+        "skin_type": "Fur",
+        "type": "whitw",
+        "top_speed": "15 mph",
+        "lifespan": "15 - 20 years",
+        "weight": "7kg - 22kg (15lbs - 48lbs)",
+        "height": "53cm - 76cm (21in - 30in)",
+        "age_of_sexual_maturity": "4 - 5 years",
+        "age_of_weaning": "7 months"
+      }
+    },
+    {
+      "name": "Pygmy Marmoset (Finger Monkey)",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Primates",
+        "family": "Callitrichidae",
+        "genus": "Cebuella",
+        "scientific_name": "Callithrix pygmaea"
+      },
+      "locations": [
+        "South-America"
+      ],
+      "characteristics": {
+        "main_prey": "Tree Sap, Fruit, Spiders, Insects",
+        "habitat": "Outskirts of tropical rainforest",
+        "predators": "Birds, Snakes, Wildcats",
+        "diet": "Omnivore",
+        "average_litter_size": "2",
+        "lifestyle": "Troop",
+        "favorite_food": "Tree Sap",
+        "type": "Mammal",
+        "slogan": "The smallest species of monkey in the world!",
+        "color": "BrownGreyBlackWhiteTan",
+        "skin_type": "Fur",
+        "top_speed": "24 mph",
+        "lifespan": "8-12 years",
+        "weight": "120-140g (4.2-4.9oz)"
+      }
+    },
+    {
+      "name": "Spider Monkey",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Primates",
+        "family": "Atelidae",
+        "genus": "Ateles",
+        "scientific_name": "Simia Paniscus"
+      },
+      "locations": [
+        "Central-America",
+        "South-America"
+      ],
+      "characteristics": {
+        "main_prey": "Fruit, Nuts, Leaves",
+        "habitat": "Tropical jungle and rainforest",
+        "predators": "Human, Eagles, Jaguar",
+        "diet": "Omnivore",
+        "average_litter_size": "1",
+        "lifestyle": "Troop",
+        "favorite_food": "Fruit",
+        "type": "Mammal",
+        "slogan": "Found in the tropical jungles of South America!",
+        "color": "BrownGreyBlackWhite",
+        "skin_type": "Hair",
+        "top_speed": "35 mph",
+        "lifespan": "15-27 years",
+        "weight": "6.4-12kg (14-26lbs)"
+      }
+    },
+    {
+      "name": "Squirrel Monkey",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Primates",
+        "family": "Cebidae",
+        "genus": "Saimiri",
+        "scientific_name": "Saimiri"
+      },
+      "locations": [
+        "Central-America",
+        "South-America"
+      ],
+      "characteristics": {
+        "prey": "Fruit, Insects, Flowers",
+        "name_of_young": "Infant",
+        "group_behavior": "Troop",
+        "estimated_population_size": "Not Known",
+        "biggest_threat": "Habitat loss",
+        "most_distinctive_feature": "Longer tail than body used for balance",
+        "other_name(s)": "Deaths Head Monkey",
+        "gestation_period": "170 days",
+        "habitat": "Dense, tropical jungle close to a stream",
+        "predators": "Birds of Prey, Snakes, Humans",
+        "diet": "Omnivore",
+        "type": "Mammal",
+        "average_litter_size": "1",
+        "lifestyle": "Diurnal",
+        "common_name": "Squirrel Monkey",
+        "number_of_species": "5",
+        "location": "Central and South America",
+        "slogan": "Lives in groups of up to 500 individuals!",
+        "group": "Mammal",
+        "color": "GreyYellowBlackOlive",
+        "skin_type": "Fur",
+        "top_speed": "22 mph",
+        "lifespan": "15 - 20 years",
+        "weight": "0.75kg -1.1k g (1.7lbs - 2.4lbs)",
+        "height": "25cm - 36cm (9.8in - 14in)",
+        "age_of_sexual_maturity": "3 - 5 years",
+        "age_of_weaning": "4 months"
+      }
+    },
+    {
+      "name": "Vervet Monkey",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Primates",
+        "family": "Cercopithecidae",
+        "genus": "Chlorocebus",
+        "scientific_name": "Chlorocebus pygerythrus"
+      },
+      "locations": [
+        "Africa"
+      ],
+      "characteristics": {
+        "prey": "Leaves, Fruits, Insects",
+        "name_of_young": "Infant",
+        "group_behavior": "Troop",
+        "estimated_population_size": "Sustainable",
+        "biggest_threat": "Habitat loss",
+        "most_distinctive_feature": "Black face with white ear tufts",
+        "other_name(s)": "Vervet",
+        "gestation_period": "163 days",
+        "habitat": "Riverine acacia forests",
+        "predators": "Leopard, Serval, Crocodile",
+        "diet": "Omnivore",
+        "average_litter_size": "1",
+        "type": "white",
+        "lifestyle": "Diurnal",
+        "common_name": "Vervet Monkey",
+        "number_of_species": "6",
+        "location": "Eastern Africa",
+        "slogan": "Rarely found more than 450m from trees!",
+        "group": "Mammal",
+        "color": "BrownGreyBlackSilverOlive",
+        "skin_type": "Fur",
+        "top_speed": "30 mph",
+        "lifespan": "12 - 24 years",
+        "weight": "3.5kg - 5kg (7lbs - 10lbs)",
+        "length": "46cm - 66cm (17.9in - 25.7in)",
+        "age_of_sexual_maturity": "2 - 5 years",
+        "age_of_weaning": "8 - 12 months"
+      }
+    },
+    {
+      "name": "Woolly Monkey",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Primates",
+        "family": "Atelidae",
+        "genus": "Lagothrix",
+        "scientific_name": "Lagothrix Lagotricha"
+      },
+      "locations": [
+        "South-America"
+      ],
+      "characteristics": {
+        "main_prey": "Fruit, Seeds, Insects",
+        "habitat": "Humid and mature tropical forests",
+        "predators": "Human, Wildcats, Birds of Prey",
+        "diet": "Omnivore",
+        "average_litter_size": "1",
+        "lifestyle": "Troop",
+        "favorite_food": "Fruit",
+        "type": "Mammal",
+        "slogan": "Has a long, strong prehensile tail!",
+        "color": "BrownGreyBlack",
+        "skin_type": "Fur",
+        "top_speed": "35 mph",
+        "lifespan": "7-10 years",
+        "weight": "5-8kg (11-18lbs)"
+      }
+    }
+  ],
+  "cat": [
+    {
+      "name": "Australian Cattle Dog",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Canis",
+        "scientific_name": "Canis lupus"
+      },
+      "locations": [
+        "Oceania"
+      ],
+      "characteristics": {
+        "temperament": "Strong minded yet loyal and loving",
+        "training": "Should be trained from an early age and respond best to firm and fair training",
+        "diet": "Omnivore",
+        "average_litter_size": "5",
+        "common_name": "Australian Cattle Dog",
+        "slogan": "High energy levels and active minds!",
+        "group": "Herd Dog",
+        "color": "GreyRedBlack",
+        "skin_type": "Hair",
+        "lifespan": "13-15 years",
+        "height": "17-20 inches"
+      }
+    },
+    {
+      "name": "Banjo Catfish",
+      "taxonomy": {
+        "kingdom": "Animalia"
+      },
+      "locations": [
+        "South-America"
+      ],
+      "characteristics": {
+        "average_litter_size": "4",
+        "main_prey": " Earthworms, bloodworms, tubifex",
+        "group_behavior": "Solitary",
+        "biggest_threat": "Water pollution",
+        "most_distinctive_feature": " Banjo-shaped body",
+        "other_name(s)": "guitarrita catfish, banjo pleco, burrowing catfish",
+        "gestation_period": " 36-48 hours after fertilization of the eggs",
+        "water_type": "Fresh",
+        "optimum_ph_level": " 36-48 hours after fertilization of the eggs",
+        "habitat": "Amazon river basin, South American streams and ponds",
+        "predators": "Larger fish, birds",
+        "diet": "Carnivore",
+        "number_of_species": "40"
+      }
+    },
+    {
+      "name": "Blue Catfish",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Actinopterygii",
+        "order": "Siluriformes",
+        "family": "Ictaluridae",
+        "genus": "Ictalurus",
+        "scientific_name": "Ictalurus furcatus"
+      },
+      "locations": [
+        "Central-America",
+        "North-America"
+      ],
+      "characteristics": {
+        "average_litter_size": "3",
+        "prey": "Aquatic animals",
+        "group_behavior": "School",
+        "estimated_population_size": "Unknown; 100 million in the Chesapeake Bay",
+        "biggest_threat": "None",
+        "most_distinctive_feature": "Large size",
+        "other_name(s)": "Blue channel, chucklehead cat, Mississippi cat, Fulton cat, forktail cat, great forktail cat, humpback blue, silver cat, and highfin blue",
+        "gestation_period": "6-10 days",
+        "water_type": "Brackish",
+        "optimum_ph_level": "5.0-7.0",
+        "habitat": "Reservoirs, rivers, lakes, and ponds",
+        "predators": "Osprey, bald eagles, and humans",
+        "diet": "Omnivore",
+        "type": "Fish",
+        "common_name": "Blue catfish",
+        "number_of_species": "1",
+        "color": "GreyBlueSilver",
+        "skin_type": "Scales",
+        "top_speed": "0.6 mph",
+        "lifespan": "9-25 years",
+        "weight": "25-150lbs",
+        "length": "24-65in"
+      }
+    },
+    {
+      "name": "Bobcat",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Felidae",
+        "genus": "Lynx",
+        "scientific_name": "Lynx rufus"
+      },
+      "locations": [
+        "Central-America",
+        "North-America"
+      ],
+      "characteristics": {
+        "prey": "Rabbits, Mice, Deer",
+        "name_of_young": "Kitten",
+        "group_behavior": "Solitary",
+        "estimated_population_size": "1,000,000",
+        "biggest_threat": "Hunting and habitat loss",
+        "most_distinctive_feature": "Short ear tufts and bobbed tail",
+        "other_name(s)": "Red Lynx, Wildcat",
+        "gestation_period": "60 - 70 days",
+        "habitat": "Mountainous forest, swamp, desert",
+        "predators": "Cougar, Wolves, Coyotes",
+        "diet": "Carnivore",
+        "average_litter_size": "3",
+        "lifestyle": "Nocturnal/Crepuscular",
+        "common_name": "Bobcat",
+        "number_of_species": "12",
+        "location": "North America",
+        "slogan": "About double the size of a domestic cat!",
+        "group": "Mammal",
+        "color": "BrownRedBlackWhiteTawnyBeige",
+        "skin_type": "Fur",
+        "top_speed": "34 mph",
+        "lifespan": "12 - 15 years",
+        "weight": "4.1kg - 15.3g (9lbs - 33lbs)",
+        "length": "65cm - 100cm (25in - 40in)",
+        "age_of_sexual_maturity": "1 - 2 years",
+        "age_of_weaning": "12 weeks"
+      }
+    },
+    {
+      "name": "Cat-Eyed Snake",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Squamata",
+        "family": "Colubridae",
+        "genus": "Leptodeira",
+        "scientific_name": "Leptodeira annulata"
+      },
+      "locations": [
+        "Central-America",
+        "North-America",
+        "South-America"
+      ],
+      "characteristics": {
+        "average_litter_size": "5",
+        "prey": "Frogs, lizards, salamanders, fish, and rodents",
+        "estimated_population_size": "Unknown",
+        "biggest_threat": "Habitat destruction and deforestation",
+        "most_distinctive_feature": "Huge eyes in relation to body size with vertical pupils that resemble a cat's",
+        "distinctive_feature": "Blotches or saddle patterns along the back",
+        "habitat": "Grasslands, scrublands, and rainforests throughout the Americas",
+        "diet": "Carnivore",
+        "common_name": "Cat-eyed snake",
+        "color": "BrownGoldOrange",
+        "skin_type": "Scales",
+        "lifespan": "Unknown",
+        "length": "Up to five feet stretched out",
+        "venomous": "Yes",
+        "aggression": "Low"
+      }
+    },
+    {
+      "name": "Catahoula Leopard",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Canis",
+        "scientific_name": "Canis lupus"
+      },
+      "locations": [
+        "North-America"
+      ],
+      "characteristics": {
+        "name_of_young": "Puppy",
+        "litter_size": "4-12 puppies",
+        "diet": "Omnivore",
+        "color": "YellowRedBlackBrindle",
+        "skin_type": "Hair",
+        "top_speed": "45 mph",
+        "lifespan": "12-14 years",
+        "average_litter_size": "3"
+      }
+    },
+
+    {
+      "name": "Caterpillar",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Arthropoda",
+        "class": "Insecta",
+        "order": "Lepidoptera"
+      },
+      "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Oceania",
+        "South-America"
+      ],
+      "characteristics": {
+        "average_litter_size": "5",
+        "main_prey": "Leaves, Plants, Flowers",
+        "habitat": "Quiet forests and pastures",
+        "predators": "Birds, Wasps, Mammals",
+        "diet": "Herbivore",
+        "favorite_food": "Leaves",
+        "common_name": "Caterpillar",
+        "number_of_species": "21000",
+        "location": "Worldwide",
+        "slogan": "The larvae of a moth or butterfly!",
+        "color": "YellowRedBlueBlackGreenOrange",
+        "skin_type": "Hair"
+      }
+    },
+    {
+      "name": "Catfish",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "order": "Siluriformes",
+        "scientific_name": "Siluriformes"
+      },
+      "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Ocean",
+        "Oceania",
+        "South-America"
+      ],
+      "characteristics": {
+        "average_litter_size": "4",
+        "main_prey": "Fish, Frogs, Worms",
+        "distinctive_feature": "Flat, broad head and whiskers",
+        "water_type": "Fresh",
+        "optimum_ph_level": "6.5 - 8.0",
+        "habitat": "Fast-flowing rivers and lakes",
+        "predators": "Large Fish, Birds, Mammals, Reptiles",
+        "diet": "Carnivore",
+        "favorite_food": "Fish",
+        "average_clutch_size": "40",
+        "slogan": "There are nearly 3,000 different species!",
+        "color": "BrownGreyYellowBlackWhiteTan",
+        "skin_type": "Scales",
+        "lifespan": "8 - 20 years",
+        "length": "1cm - 270cm (0.4in - 106in)"
+      }
+    },
+    {
+      "name": "Corn Rex Cat (Cornish Rex)",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Felidae",
+        "genus": "Felis",
+        "scientific_name": "Felis catus"
+      },
+      "locations": [
+        "Europe"
+      ],
+      "characteristics": {
+        "diet": "Omnivore",
+        "common_name": "Corn Rex",
+        "color": "BrownRedBlueBlackWhiteCreamSilver",
+        "lifespan": "11-20 years",
+        "weight": "5-10 pounds"
+      }
+    },
+    {
+      "name": "Electric Catfish",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Actinopterygii",
+        "order": "Siluriformes",
+        "family": "Malapteruridae"
+      },
+      "locations": [
+        "Africa"
+      ],
+      "characteristics": {
+        "average_litter_size": "3",
+        "prey": "Fish, invertebrates, and eggs",
+        "group_behavior": "Solitary",
+        "estimated_population_size": "Unknown",
+        "biggest_threat": "None",
+        "most_distinctive_feature": "The three pairs of barbells on the face",
+        "other_name(s)": "None",
+        "water_type": "Fresh",
+        "optimum_ph_level": "7.0 – 8.0",
+        "habitat": "African rivers and lakes",
+        "predators": "Larger fish",
+        "diet": "Carnivore",
+        "type": "Ray-finned fish",
+        "common_name": "Electric Catfish",
+        "number_of_species": "21",
+        "color": "BrownGreyRedWhiteCream",
+        "skin_type": "Skin",
+        "lifespan": "Average of 10 years",
+        "weight": "4.4kg (2lbs)",
+        "length": "Up to 1.2m (4ft)"
+      }
+    },
+    {
+      "name": "European Polecat",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Mustelidae",
+        "genus": "Mustela",
+        "scientific_name": "Mustela putorius"
+      },
+      "locations": [
+        "Africa",
+        "Eurasia",
+        "Europe"
+      ],
+      "characteristics": {
+        "average_litter_size": "2",
+        "prey": "Rodents, rabbits, lizards",
+        "name_of_young": "kit",
+        "group_behavior": "Solitary",
+        "biggest_threat": "predators",
+        "most_distinctive_feature": "Mask-like face markings",
+        "other_name(s)": "Black polecat, western polecat, fitch",
+        "gestation_period": "42 days",
+        "litter_size": "three to seven",
+        "habitat": "Wetlands, marshes, coastal cliffs",
+        "diet": "Carnivore",
+        "type": "Mustelid",
+        "common_name": "European polecat",
+        "number_of_species": "1",
+        "location": "Europe, North Africa, Asia",
+        "group": "solitary",
+        "color": "RedBlackSilver",
+        "skin_type": "Fur",
+        "top_speed": "23 mph",
+        "lifespan": "five to 14 years",
+        "weight": "two to three pounds",
+        "height": "five to six inches",
+        "length": "one to 1 ½ feet",
+        "age_of_sexual_maturity": "one year",
+        "age_of_weaning": "three months"
+      }
+    },
+    {
+      "name": "European Wildcat",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Felidae",
+        "genus": "Felis",
+        "scientific_name": "Felis catus silvestris"
+      },
+      "locations": [
+        "Europe"
+      ],
+      "characteristics": {
+        "average_litter_size": "5",
+        "prey": "Rodents, rabbits, hares, small mammals",
+        "name_of_young": "kitten",
+        "group_behavior": "Territorial",
+        "estimated_population_size": "500,000",
+        "biggest_threat": "Shooting by humans",
+        "most_distinctive_feature": "Fluffy tail/looks like a feral cat",
+        "gestation_period": "68 days",
+        "litter_size": "three to six kittens",
+        "habitat": "Mainly forests",
+        "diet": "Omnivore",
+        "common_name": "European wildcat",
+        "number_of_species": "4",
+        "location": "Europe",
+        "group": "solitary",
+        "color": "GreySandy",
+        "lifespan": "12-16 years",
+        "weight": "eight to 18 pounds",
+        "age_of_sexual_maturity": "10-11 months",
+        "age_of_weaning": "five to 10 months"
+      }
+    },
+    {
+      "name": "Fisher Cat",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Mustelidae",
+        "genus": "Pekania",
+        "scientific_name": "Pekania pennanti"
+      },
+      "locations": [
+        "North-America"
+      ],
+      "characteristics": {
+        "average_litter_size": "7",
+        "prey": "Rodents, hares, shrews, porcupines, birds, fruits, mushrooms, and nuts",
+        "name_of_young": "Kits",
+        "group_behavior": "Solitary",
+        "estimated_population_size": "100,000",
+        "biggest_threat": "Hunting and habitat loss",
+        "most_distinctive_feature": "The dense, luxurious coat of fur",
+        "other_name(s)": "Fisher, black cat, black fox, and pekan",
+        "gestation_period": "10-12 months",
+        "litter_size": "1-6 kits",
+        "habitat": "Forests",
+        "predators": "Bobcats, lynxes, foxes, and hawks",
+        "diet": "Omnivore",
+        "type": "Mammal",
+        "common_name": "Fisher Cat",
+        "number_of_species": "1",
+        "location": "North America",
+        "color": "BrownBlackWhiteGoldSilver",
+        "skin_type": "Fur",
+        "lifespan": "Up to 10 years",
+        "weight": "1.4-6.8kg (3-15lbs)",
+        "height": "Up to 30cm (12in)",
+        "length": "50-63cm (20-25in)",
+        "age_of_sexual_maturity": "1-2 years",
+        "age_of_weaning": "8-16 weeks"
+      }
+    },
+    {
+      "name": "Fishing Cat",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Felidae",
+        "genus": "Prionailurus",
+        "scientific_name": "Prionailurus viverrinus"
+      },
+      "locations": [
+        "Asia"
+      ],
+      "characteristics": {
+        "prey": "Fish, Shellfish, Snakes",
+        "name_of_young": "Kitten",
+        "group_behavior": "Solitary",
+        "estimated_population_size": "Less than 10,000",
+        "biggest_threat": "Habitat loss",
+        "most_distinctive_feature": "Long, stocky body and slightly webbed paws",
+        "gestation_period": "63 days",
+        "habitat": "Variety of wetland habitats",
+        "diet": "Carnivore",
+        "average_litter_size": "2",
+        "lifestyle": "Nocturnal",
+        "common_name": "Fishing Cat",
+        "number_of_species": "2",
+        "location": "south-east Asia",
+        "slogan": "Scoops fish out of the water using it's paw!",
+        "group": "Mammal",
+        "color": "BlackOlive-Grey",
+        "skin_type": "Fur",
+        "top_speed": "34 mph",
+        "lifespan": "10 - 12 years",
+        "weight": "5.5kg - 8kg (12lbs - 17.6lbs)",
+        "length": "57cm - 85cm (22.4in - 33.4in)",
+        "age_of_sexual_maturity": "9 - 10 months",
+        "age_of_weaning": "4 - 6 months"
+      }
+    },
+    {
+      "name": "Ghost Catfish",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Actinopterygii",
+        "order": "Silurormes",
+        "family": "Siluridae",
+        "genus": "Kryptopterus",
+        "scientific_name": "Kryptopterus vitreolus"
+      },
+      "locations": [
+        "Asia"
+      ],
+      "characteristics": {
+        "average_litter_size": "9",
+        "prey": "Larvae, worms",
+        "group_behavior": "School",
+        "estimated_population_size": "Unknown",
+        "most_distinctive_feature": "Translucent body",
+        "other_name(s)": "Glass catfish, X-ray fish",
+        "optimum_ph_level": "6.0 - 8.0",
+        "predators": "Larger fish, humans",
+        "diet": "Carnivore",
+        "type": "Siluriformes",
+        "common_name": "Ghost Catfish",
+        "skin_type": "Scales",
+        "weight": "Less than an ounce"
+      }
+    },
+    {
+      "name": "Great Crested Flycatcher",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Aves",
+        "order": "Passeriformes",
+        "family": "Tyrannidae",
+        "genus": "Myiarchus",
+        "scientific_name": "Myiarchus crinitus"
+      },
+      "locations": [
+        "Central-America",
+        "North-America",
+        "South-America"
+      ],
+      "characteristics": {
+        "average_litter_size": "8",
+        "prey": "Insects, spiders, lizards, fruits, and berries",
+        "estimated_population_size": "6.7 million",
+        "biggest_threat": "Habitat loss and poisoning",
+        "most_distinctive_feature": "The crest on the head",
+        "wingspan": "33cm (13in)",
+        "incubation_period": "13-15 days",
+        "habitat": "Woodlands",
+        "predators": "Snakes and squirrels",
+        "diet": "Omnivore",
+        "type": "Bird",
+        "common_name": "Great Crested Flycatcher",
+        "number_of_species": "1",
+        "location": "United States and Canada, Central and South America",
+        "nesting_location": "Tree cavities",
+        "age_of_molting": "13-15 days",
+        "migratory": "1",
+        "color": "BrownYellowBlue",
+        "lifespan": "Up to 14 years",
+        "weight": "27-40g (0.9-1.4oz)",
+        "height": "17-21cm (6.7-8.3in)"
+      }
+    },
+    {
+      "name": "Hardhead Catfish",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Actinopterygii",
+        "order": "Siluriformes",
+        "family": "Ariidae",
+        "genus": "Ariopsis",
+        "scientific_name": "Ariopsis felis"
+      },
+      "locations": [
+        "Ocean"
+      ],
+      "characteristics": {
+        "average_litter_size": "2",
+        "prey": "Algae, sea grasses, sea cucumbers, shrimp, crabs, gastropods, and fish",
+        "group_behavior": "School",
+        "biggest_threat": "Habitat changes",
+        "most_distinctive_feature": "The six long whiskers near the mouth",
+        "other_name(s)": "Saltwater catfish, sea catfish, and tourist trout",
+        "gestation_period": "30 days",
+        "optimum_ph_level": "8",
+        "habitat": "Oceans and estuaries",
+        "diet": "Omnivore",
+        "type": "ray-finned fish",
+        "common_name": "Hardhead Catfish",
+        "number_of_species": "-2",
+        "group": "school",
+        "color": "BrownBlueWhiteSilver",
+        "skin_type": "Skin",
+        "lifespan": "5 – 8 years",
+        "weight": "1-12 pounds",
+        "length": "12-27 inches"
+      }
+    },
+    {
+      "name": "Highland Cattle",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Artiodactyla",
+        "family": "Bovidae",
+        "genus": "Bos",
+        "scientific_name": "Bos Taurus"
+      },
+      "locations": [
+        "Europe",
+        "North-America",
+        "Oceania"
+      ],
+      "characteristics": {
+        "main_prey": "Grass, Leaves, Flowers",
+        "habitat": "Mountainous and wet grasslands",
+        "predators": "Human, Wolf, Coyote",
+        "diet": "Herbivore",
+        "average_litter_size": "1",
+        "lifestyle": "Herd",
+        "favorite_food": "Grass",
+        "type": "Mammal",
+        "slogan": "Natively found in the Scottish Highlands!",
+        "color": "BrownTanOrange",
+        "skin_type": "Hair",
+        "top_speed": "25 mph",
+        "lifespan": "15-22 years",
+        "weight": "400-1,000kg (882-2,204lbs)"
+      }
+    },
+    {
+      "name": "Jaguarundi Cat",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Felidae",
+        "genus": "Herpailurus",
+        "scientific_name": "Herpailurus yagouaroundi"
+      },
+      "locations": [
+        "Central-America",
+        "South-America"
+      ],
+      "characteristics": {
+        "prey": "Rabbits, frogs, fish, mice",
+        "name_of_young": "Kitten",
+        "group_behavior": "Solitary",
+        "biggest_threat": "Hunting",
+        "most_distinctive_feature": "Light amber colored eyes",
+        "other_name(s)": "Otter cat and weasel cat",
+        "gestation_period": "70-75 days",
+        "litter_size": "1-4",
+        "habitat": "Woodland, swamp, savannah, scrubland",
+        "predators": "Coyote, mountain lion, humans",
+        "diet": "Carnivore",
+        "type": "Mammal",
+        "average_litter_size": "6",
+        "common_name": "Jaguarundi",
+        "number_of_species": "8",
+        "location": "Central and South America",
+        "group": "Solitary",
+        "color": "BrownGreyRed",
+        "skin_type": "Hair",
+        "top_speed": "40 mph",
+        "lifespan": "15 years",
+        "height": "10-14 inches, shoulder height",
+        "length": "3-4 feet (head to end of tail)",
+        "age_of_sexual_maturity": "2 years",
+        "age_of_weaning": "6 weeks"
+      }
+    },
+    {
+      "name": "Leopard Cat",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Felidae",
+        "genus": "Prionailurus",
+        "scientific_name": "Prionailurus bengalensis"
+      },
+      "locations": [
+        "Asia"
+      ],
+      "characteristics": {
+        "main_prey": "Rodents, Lizards, Insects",
+        "distinctive_feature": "Webbed toes and spotted fur",
+        "habitat": "Tropical forests",
+        "predators": "Leopard, Tiger, Wilddog",
+        "diet": "Carnivore",
+        "average_litter_size": "3",
+        "lifestyle": "Solitary",
+        "favorite_food": "Rodents",
+        "type": "Mammal",
+        "slogan": "There are 11 different species!",
+        "color": "GreyYellowBlackWhite",
+        "skin_type": "Fur",
+        "top_speed": "45 mph",
+        "lifespan": "10 - 13 years",
+        "weight": "2.2kg - 7.5kg (4.9lbs - 17lbs)",
+        "length": "46cm - 65cm (18in - 26in)"
+      }
+    },
+    {
+      "name": "Mekong Giant Catfish",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Actinopterygii",
+        "order": "Siluriformes",
+        "family": "Pangasiidae",
+        "genus": "Pangasianodon",
+        "scientific_name": "Pangasianodon gigas"
+      },
+      "locations": [
+        "Asia"
+      ],
+      "characteristics": {
+        "average_litter_size": "5",
+        "prey": "Plants, algae, and zooplankton",
+        "group_behavior": "Mainly solitary",
+        "estimated_population_size": "A few hundred",
+        "biggest_threat": "Damming",
+        "most_distinctive_feature": "Low-set eyes",
+        "other_name(s)": "Pa beuk (in Laos)",
+        "water_type": "Fresh",
+        "optimum_ph_level": "Unknown",
+        "habitat": "Mekong River",
+        "predators": "Humans",
+        "diet": "Herbivore",
+        "type": " Ray-finned fish",
+        "common_name": "Mekong Giant Catfish",
+        "number_of_species": "1",
+        "color": "GreyWhite",
+        "skin_type": "Skin",
+        "lifespan": "60 years",
+        "weight": "Up to 646 lbs, possibly more",
+        "length": "Up to 10 ft"
+      }
+    },
+    {
+      "name": "Polecat",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Mustelidae",
+        "genus": "Mustela",
+        "scientific_name": "Mustela putorius"
+      },
+      "locations": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North-America"
+      ],
+      "characteristics": {
+        "average_litter_size": "4",
+        "prey": "Rodents, birds, frogs, lizards",
+        "name_of_young": "Kit",
+        "group_behavior": "Solitary",
+        "estimated_population_size": "Unknown",
+        "biggest_threat": "Habitat loss",
+        "most_distinctive_feature": "Long, slender body",
+        "other_name(s)": "Chicken cat",
+        "gestation_period": "42 days",
+        "litter_size": "3 to 7",
+        "habitat": "Grassland, wetlands, forest, steppe, woodlands",
+        "predators": "Humans",
+        "diet": "Carnivore",
+        "lifestyle": "Solitary",
+        "type": "Mammal",
+        "common_name": "Polecat",
+        "number_of_species": "5",
+        "location": "Europe, Africa, Asia, North America",
+        "color": "BrownGreyBlackWhite",
+        "skin_type": "Hair",
+        "top_speed": "15 mph",
+        "lifespan": "6-14 years",
+        "weight": "2 to 3.5 pounds",
+        "length": "14 to 20 inches",
+        "age_of_sexual_maturity": "1 year",
+        "age_of_weaning": "30 days"
+      }
+    },
+    {
+      "name": "Redtail Catfish",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Actinopterygii",
+        "order": "Siluriformes",
+        "family": "Pimelodidae",
+        "genus": "Phractocephalus",
+        "scientific_name": "Phractocephalus hemioliopterus"
+      },
+      "locations": [
+        "South-America"
+      ],
+      "characteristics": {
+        "average_litter_size": "9",
+        "prey": "Fish, worms, crabs, shrimp, insects",
+        "group_behavior": "Solitary",
+        "estimated_population_size": "Unknown",
+        "biggest_threat": "Humans",
+        "most_distinctive_feature": "Red fins",
+        "gestation_period": "4 to 5 days",
+        "water_type": "Fresh",
+        "habitat": "Rivers, streams",
+        "predators": "Humans",
+        "diet": "Carnivore",
+        "type": "Fish",
+        "common_name": "Redtailed catfish",
+        "number_of_species": "1",
+        "color": "BrownRedBlack",
+        "skin_type": "Scales",
+        "lifespan": "10 to 15 years",
+        "weight": "40 to 90 pounds",
+        "length": "3 to 6 feet"
+      }
+    },
+    {
+      "name": "Sulcata Tortoise",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Testudines",
+        "family": "Testudinidae",
+        "genus": "Centrochelys",
+        "scientific_name": "Centrochelys sulcata"
+      },
+      "locations": [
+        "Africa"
+      ],
+      "characteristics": {
+        "average_litter_size": "5",
+        "name_of_young": "Hatchling",
+        "group_behavior": "Solitary",
+        "estimated_population_size": "Unknown, but the animal is listed as vulnerable or endangered",
+        "biggest_threat": "Hunting, poaching, habitat destruction",
+        "most_distinctive_feature": "Its size",
+        "other_name(s)": "African spurred tortoise",
+        "gestation_period": "About 75 days",
+        "litter_size": "15 to 30",
+        "habitat": "Desert, dry savanna",
+        "predators": "Humans",
+        "diet": "Herbivore",
+        "type": "Reptile",
+        "common_name": "African spurred tortoise, spurred tortoise, African spur thigh tortoise",
+        "number_of_species": "1",
+        "location": "Southern part of the Sahara Desert",
+        "color": "BrownYellow",
+        "skin_type": "Hard Shell",
+        "top_speed": "0.3 mph",
+        "lifespan": "More than 70 years",
+        "weight": "79 to 200 pounds",
+        "length": "30 inches",
+        "age_of_sexual_maturity": "15 years of age"
+      }
+    },
+    {
+      "name": "Walking Catfish",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Actinopterygii",
+        "order": "Siluriformes",
+        "family": "Clariidae",
+        "genus": "Clarias",
+        "scientific_name": "Clarias batrachus"
+      },
+      "locations": [
+        "Asia"
+      ],
+      "characteristics": {
+        "average_litter_size": "4",
+        "prey": "Mollusks, fish, insects, plants, and plankton",
+        "group_behavior": "Solitary",
+        "biggest_threat": "Overfishing",
+        "most_distinctive_feature": "The four pairs of long barbels",
+        "other_name(s)": "Air-breathing catfish",
+        "gestation_period": "24 hours",
+        "water_type": "Fresh",
+        "optimum_ph_level": "Up to 10",
+        "habitat": "Rivers, streams, swamps, and ponds",
+        "predators": "Crocodiles, birds, and large mammals",
+        "diet": "Omnivore",
+        "type": "Fish",
+        "common_name": "Walking Catfish",
+        "number_of_species": "1",
+        "color": "BrownGreyWhite",
+        "skin_type": "Skin",
+        "lifespan": "Unknown",
+        "weight": "2lbs",
+        "length": "8cm - 47m (3in - 18in)"
+      }
+    },
+    {
+      "name": "Wels Catfish",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Actinopterygii",
+        "order": "Siluriformes",
+        "family": "Siluridae",
+        "genus": "Silurus",
+        "scientific_name": "Silurus glanis"
+      },
+      "locations": [
+        "Europe"
+      ],
+      "characteristics": {
+        "average_litter_size": "5",
+        "prey": "Snails, worms, crustaceans, insects, fish, and birds",
+        "group_behavior": "Solitary",
+        "estimated_population_size": "Unknown",
+        "biggest_threat": "Overfishing",
+        "most_distinctive_feature": "The barbels (whiskers) on the face",
+        "other_name(s)": "Sheatfish",
+        "gestation_period": "3-10 days",
+        "water_type": "Fresh",
+        "optimum_ph_level": "unknown",
+        "habitat": "rivers and lakes",
+        "predators": "Humans and pike",
+        "diet": "Omnivore",
+        "type": "ray-finned fish",
+        "common_name": "wels catfish",
+        "number_of_species": "1",
+        "color": "BrownGreyWhiteGreen",
+        "lifespan": "up to 80 years",
+        "weight": "Up to 500 lbs",
+        "length": "Up to 10 feet"
+      }
+    }
+  ],
+  "elephant": [
+    {
+      "name": "African Bush Elephant",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Proboscidea",
+        "family": "Elephantidae",
+        "genus": "Loxodonta",
+        "scientific_name": "Loxodonta africana africana"
+      },
+      "locations": [
+        "Africa"
+      ],
+      "characteristics": {
+        "prey": "Grass, Fruit, Roots",
+        "name_of_young": "Calf",
+        "group_behavior": "Herd",
+        "estimated_population_size": "300,000",
+        "biggest_threat": "Poaching and habitat loss",
+        "most_distinctive_feature": "Large, rounded ears",
+        "other_name(s)": "African Elephant",
+        "gestation_period": "20 - 24 months",
+        "habitat": "Forest, savannah and flood plains",
+        "predators": "Human, Lion, Hyena",
+        "diet": "Herbivore",
+        "average_litter_size": "1",
+        "lifestyle": "Diurnal",
+        "common_name": "African Bush Elephant",
+        "number_of_species": "1",
+        "location": "central and southern Africa",
+        "slogan": "Can drink up to 50 gallons a day",
+        "group": "Mammal",
+        "color": "BrownGrey",
+        "skin_type": "Leather",
+        "top_speed": "25 mph",
+        "lifespan": "60 - 70 years",
+        "weight": "3,600kg - 5,400kg (7,900lbs - 12,000lbs)",
+        "height": "3m - 3.5m (10ft - 12ft)",
+        "age_of_sexual_maturity": "11 - 20 years",
+        "age_of_weaning": "6 - 18 months"
+      }
+    },
+    {
+      "name": "African Forest Elephant",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Proboscidea",
+        "family": "Elephantidae",
+        "genus": "Loxodonta",
+        "scientific_name": "Loxodonta cyclotis"
+      },
+      "locations": [
+        "Africa"
+      ],
+      "characteristics": {
+        "prey": "Grass, Fruit, Roots",
+        "name_of_young": "Calf",
+        "group_behavior": "Herd",
+        "estimated_population_size": "200,000",
+        "biggest_threat": "Poaching and habitat loss",
+        "most_distinctive_feature": "Rounded ears and thin, straight tusks",
+        "other_name(s)": "African Elephant",
+        "gestation_period": "22 - 24 months",
+        "habitat": "Forest, savannah and flood plains",
+        "predators": "Human, Lion, Hyena",
+        "diet": "Herbivore",
+        "average_litter_size": "1",
+        "lifestyle": "Diurnal",
+        "common_name": "African Forest Elephant",
+        "number_of_species": "1",
+        "location": "central and southern Africa",
+        "slogan": "Have large rounded ears to help keep them cool!",
+        "group": "Mammal",
+        "color": "BrownGrey",
+        "skin_type": "Leather",
+        "top_speed": "24 mph",
+        "lifespan": "60 - 70 years",
+        "weight": "900kg - 3,000kg (1,984lbs - 6,613lbs)",
+        "height": "2m - 3m (6.6ft - 9.8ft)",
+        "age_of_sexual_maturity": "11 - 20 years",
+        "age_of_weaning": "5 years"
+      }
+    },
+    {
+      "name": "Asian Elephant",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Proboscidea",
+        "family": "Elephantidae",
+        "genus": "Elephas",
+        "scientific_name": "Elephas maximus"
+      },
+      "locations": [
+        "Asia"
+      ],
+      "characteristics": {
+        "main_prey": "Grass, Fruit, Roots",
+        "distinctive_feature": "Long trunk and large feet",
+        "habitat": "Rainforest and tropical woodland",
+        "predators": "Human, Tiger",
+        "diet": "Herbivore",
+        "average_litter_size": "1",
+        "lifestyle": "Herd",
+        "favorite_food": "Grass",
+        "type": "Mammal",
+        "slogan": "Domesticated for hundreds of years!",
+        "color": "BrownGreyBlack",
+        "skin_type": "Leather",
+        "top_speed": "27 mph",
+        "lifespan": "55 - 70 years",
+        "weight": "3,000kg - 5,000kg (6,500lbs - 11,000lbs)",
+        "height": "2m - 3m (7ft - 10ft)"
+      }
+    },
+    {
+      "name": "Borneo Elephant",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Proboscidea",
+        "family": "Elephantidae",
+        "genus": "Elephas",
+        "scientific_name": "Elephas maximus borneensis"
+      },
+      "locations": [
+        "Asia",
+        "Ocean"
+      ],
+      "characteristics": {
+        "main_prey": "Grass, Fruit, Roots",
+        "distinctive_feature": "Long trunk and large feet",
+        "habitat": "Rainforest and tropical woodland",
+        "predators": "Human, Tiger",
+        "diet": "Herbivore",
+        "average_litter_size": "1",
+        "lifestyle": "Herd",
+        "favorite_food": "Grass",
+        "type": "Mammal",
+        "slogan": "The smallest species of elephant!",
+        "color": "BrownGreyBlack",
+        "skin_type": "Leather",
+        "top_speed": "27 mph",
+        "lifespan": "55 - 70 years",
+        "weight": "3,000kg - 5,000kg (6,500lbs - 11,000lbs)",
+        "height": "2m - 3m (7ft - 10ft)"
+      }
+    },
+    {
+      "name": "Elephant",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Proboscidea",
+        "family": "Elephantidae"
+      },
+      "locations": [
+        "Africa",
+        "Asia"
+      ],
+      "characteristics": {
+        "main_prey": "Grass, Fruit, Roots",
+        "distinctive_feature": "Large body size and long trunk",
+        "habitat": "Rainforest and flood plains",
+        "diet": "Herbivore",
+        "average_litter_size": "1",
+        "lifestyle": "Herd",
+        "favorite_food": "Grass",
+        "type": "Mammal",
+        "slogan": "Spends around 22 hours a day eating!",
+        "color": "Grey",
+        "skin_type": "Leather",
+        "top_speed": "25 mph",
+        "lifespan": "55 - 70 years",
+        "weight": "3,000kg - 5,400kg (6,500lbs - 12,000lbs)",
+        "height": "2m - 3.6m (7ft - 12ft)"
+      }
+    },
+    {
+      "name": "Elephant Seal",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Phocidae",
+        "genus": "Mirounga",
+        "scientific_name": "Mirounga"
+      },
+      "locations": [
+        "Ocean"
+      ],
+      "characteristics": {
+        "main_prey": "Fish, Squid, Octopus",
+        "distinctive_feature": "Long trunk-like nose and large body",
+        "habitat": "Warm coastal waters close to land",
+        "predators": "Human, Sharks, Killer Whales",
+        "diet": "Carnivore",
+        "average_litter_size": "1",
+        "lifestyle": "Herd",
+        "favorite_food": "Fish",
+        "type": "Mammal",
+        "slogan": "The largest species of seal in the world!",
+        "color": "BrownGreyBlackTan",
+        "skin_type": "Fur",
+        "top_speed": "12 mph",
+        "lifespan": "18 - 22 years",
+        "weight": "900kg - 3,000kg (2,000lbs - 6,000lbs)",
+        "length": "3m - 5m (10ft - 16ft)"
+      }
+    },
+    {
+      "name": "Elephant Shrew",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Macroscelidea",
+        "family": "Macroscelididae",
+        "genus": "Elephantulus",
+        "scientific_name": "Elephantulus"
+      },
+      "locations": [
+        "Africa"
+      ],
+      "characteristics": {
+        "main_prey": "Insects, Worms, Spiders",
+        "distinctive_feature": "Long nose and long back legs",
+        "habitat": "Forest, woodland and grassland",
+        "predators": "Snakes, Lizards, Birds of Prey",
+        "diet": "Omnivore",
+        "average_litter_size": "2",
+        "lifestyle": "Solitary",
+        "favorite_food": "Insects",
+        "type": "Mammal",
+        "slogan": "Found exclusively on the African continent!",
+        "color": "BrownGreyBlackWhiteTan",
+        "skin_type": "Fur",
+        "top_speed": "8 mph",
+        "lifespan": "2 - 5 years",
+        "weight": "50g - 500g (2oz - 18oz)",
+        "length": "10cm - 30cm (4in - 12in)"
+      }
+    },
+    {
+      "name": "Indian Elephant",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Proboscidea",
+        "family": "Elephantidae",
+        "genus": "Elephas",
+        "scientific_name": "Elephas maximus indicus"
+      },
+      "locations": [
+        "Asia"
+      ],
+      "characteristics": {
+        "main_prey": "Grass, Fruit, Roots",
+        "distinctive_feature": "Long trunk and large feet",
+        "habitat": "Rainforest and tropical woodland",
+        "predators": "Human, Tiger",
+        "diet": "Herbivore",
+        "average_litter_size": "1",
+        "lifestyle": "Herd",
+        "favorite_food": "Grass",
+        "type": "Mammal",
+        "slogan": "Found throughout south-east Asia!",
+        "color": "BrownGreyBlack",
+        "skin_type": "Leather",
+        "top_speed": "27 mph",
+        "lifespan": "55 - 70 years",
+        "weight": "3,000kg - 5,000kg (6,500lbs - 11,000lbs)",
+        "height": "2m - 3m (7ft - 10ft)"
+      }
+    },
+    {
+      "name": "Sri Lankan Elephant",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Proboscidea",
+        "family": "Elephantidae",
+        "genus": "Elephas",
+        "scientific_name": "Elephas Maximus Maximus"
+      },
+      "locations": [
+        "Asia"
+      ],
+      "characteristics": {
+        "main_prey": "Grass, Fruit, Roots",
+        "distinctive_feature": "Long trunk and large feet",
+        "habitat": "Rainforest and tropical woodland",
+        "predators": "Human, Tiger",
+        "diet": "Herbivore",
+        "average_litter_size": "1",
+        "lifestyle": "Herd",
+        "favorite_food": "Grass",
+        "type": "Mammal",
+        "slogan": "Now restricted to a few parks!",
+        "color": "BrownGreyBlack",
+        "skin_type": "Leather",
+        "top_speed": "27 mph",
+        "lifespan": "55 - 70 years",
+        "weight": "3,000kg - 5,000kg (6,500lbs - 11,000lbs)",
+        "height": "2m - 3m (7ft - 10ft)"
+      }
+    },
+    {
+      "name": "Sumatran Elephant",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Proboscidea",
+        "family": "Elephantidae",
+        "genus": "Elephas",
+        "scientific_name": "Elephas Maximus Sumatranus"
+      },
+      "locations": [
+        "Asia"
+      ],
+      "characteristics": {
+        "main_prey": "Grass, Fruit, Roots",
+        "distinctive_feature": "Long trunk and large feet",
+        "habitat": "Rainforest and tropical woodland",
+        "predators": "Human, Tiger",
+        "diet": "Herbivore",
+        "average_litter_size": "1",
+        "lifestyle": "Herd",
+        "favorite_food": "Grass",
+        "type": "Mammal",
+        "slogan": "Less than 2,000 left in the wild!",
+        "color": "BrownGreyBlack",
+        "skin_type": "Leather",
+        "top_speed": "27 mph",
+        "lifespan": "55 - 70 years",
+        "weight": "3,000kg - 5,000kg (6,500lbs - 11,000lbs)",
+        "height": "2m - 3m (7ft - 10ft)"
+      }
+    }
+  ],
+  "zebra": [
+    {
+      "name": "Zebra",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Perissodactyla",
+        "family": "Equidae",
+        "genus": "Equus",
+        "scientific_name": "Equus zebra, Equus quagga, Equus grevyi"
+      },
+      "locations": [
+        "Africa"
+      ],
+      "characteristics": {
+        "type": "Salt",
+        "prey": "Grasses, Leaves, Buds",
+        "name_of_young": "Foal",
+        "group_behavior": "Herd",
+        "estimated_population_size": "Declining",
+        "biggest_threat": "Habitat loss",
+        "most_distinctive_feature": "Long, slender legs and one toe on each foot",
+        "other_name(s)": "Mountain Zebra, Common Zebra, Plains Zebra, Burchells Zebra, Grevys Zebra",
+        "gestation_period": "10 - 12 months",
+        "habitat": "Open grassland and plains",
+        "diet": "Herbivore",
+        "average_litter_size": "1",
+        "lifestyle": "Diurnal",
+        "common_name": "Zebra",
+        "number_of_species": "3",
+        "location": "Eastern and Southern Africa",
+        "slogan": "Stripe patterns are unique to each individual!",
+        "group": "Mammal",
+        "color": "BrownBlackWhite",
+        "skin_type": "Hair",
+        "lifespan": "20 - 30 years",
+        "weight": "220kg - 405kg (485lbs - 893lbs)",
+        "length": "2m - 2.75m (6.6ft - 9ft)",
+        "age_of_sexual_maturity": "3 - 4 years",
+        "age_of_weaning": "11 months"
+      }
+    },
+    {
+      "name": "Zebra Finch",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Aves",
+        "order": "Passeriformes",
+        "family": "Estrildidae",
+        "genus": "Taeniopygia",
+        "scientific_name": "Taeniopygia guttata"
+      },
+      "locations": [
+        "Asia",
+        "Oceania"
+      ],
+      "characteristics": {
+        "prey": "Seeds, fruits, vegetables, and insects",
+        "estimated_population_size": "Unknown",
+        "biggest_threat": "Predators",
+        "most_distinctive_feature": "The speckled or striped plumage along the sides and tail",
+        "wingspan": "8-9 inches",
+        "incubation_period": "2 weeks",
+        "habitat": "Savannas and grasslands",
+        "predators": "Marsupials, snakes, mice, and birds of prey",
+        "diet": "Omnivore",
+        "type": "Bird",
+        "average_litter_size": "2",
+        "common_name": "Zebra Finch",
+        "number_of_species": "1",
+        "location": "Australia and Timor",
+        "nesting_location": "Trees, bushes, or burrows",
+        "age_of_molting": "3 weeks",
+        "color": "GreyRedBlackWhiteOrange",
+        "skin_type": "Feathers",
+        "weight": "12g",
+        "lifespan": "20 - 30 years",
+        "length": "4 inches"
+      }
+    },
+    {
+      "name": "Zebra Mussels",
+      "taxonomy": {
+        "kingdom": "Animalia",
+
+        "phylum": "Mollusca",
+        "class": "Bivalvia",
+        "order": "Myida",
+        "family": "Dreissenidae",
+        "genus": "Dreissena",
+        "scientific_name": "Dreissena polymorpha"
+      },
+      "locations": [
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Ocean"
+      ],
+      "characteristics": {
+        "prey": "Plankton, waste and debris from water",
+        "group_behavior": "Beds (like reefs)",
+        "estimated_population_size": "unknown",
+        "most_distinctive_feature": "Alternating dark and light stripes on outer shells",
+        "other_name(s)": "Dreissena polymorpha",
+        "gestation_period": "two days",
+        "water_type": "Fresh",
+        "habitat": "freshwater rivers, lakes and streams",
+        "predators": "Ducks, fish, crabs",
+        "diet": "Herbivore",
+        "type": "mollusk",
+        "common_name": "Zebra mussel",
+        "number_of_species": "1",
+        "color": "BrownWhiteBeige",
+        "skin_type": "Shell",
+        "lifespan": "2 to 5 years",
+        "length": "1 inch",
+        "average_litter_size": "3"
+      }
+    },
+    {
+      "name": "Zebra Pleco",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Actinopterygii",
+        "order": "Siluriformes",
+        "family": "Loricariidae",
+        "genus": "Hypancistrus",
+        "scientific_name": "Hypancistrus zebra"
+      },
+      "locations": [
+        "South-America"
+      ],
+      "characteristics": {
+        "type": "Salt",
+        "prey": "Algae, detritus, and small organic matter",
+        "group_behavior": "Solitary",
+        "estimated_population_size": "Unknown",
+        "biggest_threat": "Dam construction and poaching.",
+        "other_name(s)": "Imperial pleco",
+        "gestation_period": "1 week",
+        "temperament": "Passive and shy.",
+        "water_type": "Fresh",
+        "optimum_ph_level": "6-7.5 pH",
+        "habitat": "Rivers",
+        "predators": "Larger fish",
+        "diet": "Omnivore",
+        "average_litter_size": "7-15",
+        "common_name": "Zebra Pleco",
+        "origin": "Brazil",
+        "number_of_species": "1",
+        "location": "Brazil",
+        "color": "BlackWhite",
+        "skin_type": "Boney Plates",
+        "lifespan": "10-15 years"
+      }
+    },
+    {
+      "name": "Zebra Shark",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Chondrichthyes",
+        "order": "Orectolobiformes",
+        "family": "Stegostomatidae",
+        "genus": "Stegostoma",
+        "scientific_name": "Stegostoma Fasciatum"
+      },
+      "locations": [
+        "Ocean"
+      ],
+      "characteristics": {
+        "main_prey": "Fish, Crabs, Snails",
+        "optimum_ph_level": "7.8 - 8.4",
+        "habitat": "Tropical, coastal waters",
+        "predators": "Large Sharks, Humans",
+        "diet": "Omnivore",
+        "average_litter_size": "10",
+        "favorite_food": "Fish",
+        "type": "Salt",
+        "slogan": "Can get to be 30 years old in the wild!",
+        "color": "BrownGreyYellowBlackWhite",
+        "skin_type": "Smooth",
+        "lifespan": "15 - 20 years",
+        "weight": "16kg - 20kg (35lbs - 44lbs)"
+      }
+    },
+    {
+      "name": "Zebra Snake",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Squamata",
+        "family": "Elapidae",
+        "genus": "Naja",
+        "scientific_name": "Naja nigricincta"
+      },
+      "locations": [
+        "Africa"
+      ],
+      "characteristics": {
+        "type": "nice",
+        "prey": "rodents, birds, fish, eggs, other reptiles",
+        "diet": "Carnivore",
+        "average_litter_size": "10 - 20 eggs",
+        "common_name": "western barred spitting cobra, zebra cobra, zebra snake",
+        "color": "Black",
+        "lifespan": "12+ years",
+        "length": "4 feet",
+        "venomous": "Yes",
+        "aggression": "Medium",
+        "skin_type": "Smooth"
+      }
+    }
+  ],
+  "bear": [
+    {
+      "name": "Asiatic Black Bear",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Ursidae",
+        "genus": "Ursus",
+        "scientific_name": "Ursus tibetanus"
+      },
+      "locations": [
+        "Asia",
+        "Eurasia"
+      ],
+      "characteristics": {
+        "prey": "Nuts, Fruits, Insects",
+        "name_of_young": "Cub",
+        "group_behavior": "Solitary",
+        "estimated_population_size": "50,000",
+        "biggest_threat": "Hunting and Habitat loss",
+        "most_distinctive_feature": "Distinctive v-shaped marking on chest",
+        "other_name(s)": "Asian Black Bear, Himalayan Black Bear, Tibetan Black Bear, Moon Bear",
+        "gestation_period": "6 - 8 months",
+        "habitat": "Deciduous Tropical Forest",
+        "predators": "Tiger, Wolves, Humans",
+        "diet": "Omnivore",
+        "average_litter_size": "2",
+        "lifestyle": "Nocturnal",
+        "common_name": "Asiatic Black Bear",
+        "number_of_species": "7",
+        "location": "Central and Southern Asia, Russia and Japan",
+        "slogan": "Known to eat 160 different tree-borne fruits in Thailand!",
+        "group": "Mammal",
+        "color": "BrownBlackWhite",
+        "skin_type": "Fur",
+        "top_speed": "25 mph",
+        "lifespan": "15 - 25 years",
+        "weight": "90kg - 115kg (198lbs - 253lbs)",
+        "height": "1.2m - 1.9m (4ft - 6.25ft)",
+        "age_of_sexual_maturity": "4 - 5 years",
+        "age_of_weaning": "6 months"
+      }
+    },
+    {
+      "name": "Bear",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Ursidae",
+        "genus": "Ursus",
+        "scientific_name": "Ursidae"
+      },
+      "locations": [
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "South-America"
+      ],
+      "characteristics": {
+        "main_prey": "Fish, Nectar, Insects",
+        "distinctive_feature": "Large teeth and paws and strong body",
+        "habitat": "Forest and mountainous regions",
+        "predators": "Human, Wolf, Wildcats",
+        "diet": "Omnivore",
+        "average_litter_size": "2",
+        "lifestyle": "Solitary",
+        "favorite_food": "Fish",
+        "type": "Mammal",
+        "slogan": "There are 8 different species!",
+        "color": "BrownBlackWhite",
+        "skin_type": "Fur",
+        "top_speed": "35 mph",
+        "lifespan": "15 - 35 years",
+        "weight": "27kg - 450kg (60lbs - 990lbs)",
+        "height": "1.2m - 3.3m (4ft - 11ft)"
+      }
+    },
+    {
+      "name": "Bearded Collie",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Canis",
+        "scientific_name": "Canis lupus"
+      },
+      "locations": [
+        "Europe"
+      ],
+      "characteristics": {
+        "temperament": "Loving, lively and playful",
+        "training": "Should be trained from an early age and respond well to harsh techniques",
+        "diet": "Omnivore",
+        "average_litter_size": "7",
+        "common_name": "Bearded Collie",
+        "slogan": "Weekly brushing is mandatory!",
+        "group": "Herd",
+        "color": "BrownGreyBlackWhiteTan",
+        "skin_type": "Hair",
+        "type": "Mammal"
+      }
+    },
+    {
+      "name": "Bearded Dragon",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Squamata",
+        "family": "Agamidae",
+        "genus": "Pogona",
+        "scientific_name": "Pogona Vitticeps"
+      },
+      "locations": [
+        "Oceania"
+      ],
+      "characteristics": {
+        "main_prey": "Insects, Mice, Leaves",
+        "distinctive_feature": "Pronounced beard when scared and morphs skin colour",
+        "habitat": "Arid forest and desert",
+        "predators": "Birds, Snakes, Crocodiles",
+        "diet": "Omnivore",
+        "average_litter_size": "15",
+        "lifestyle": "Solitary",
+        "favorite_food": "Insects",
+        "type": "Reptile",
+        "slogan": "Can grow to up 24 inches long!",
+        "color": "BrownGreyYellowGreen",
+        "skin_type": "Scales",
+        "top_speed": "25 mph",
+        "lifespan": "6 - 15 years",
+        "weight": "250g - 510g (9oz - 18oz)",
+        "length": "50cm - 61cm (20in - 24in)"
+      }
+    },
+    {
+      "name": "Bearded Vulture",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Aves",
+        "order": "Accipitriformes",
+        "family": "Accipitridae",
+        "scientific_name": "Gypaetus barbatus"
+      },
+      "locations": [
+        "Africa",
+        "Asia",
+        "Europe"
+      ],
+      "characteristics": {
+        "prey": "Tortoises, mammals, birds",
+        "estimated_population_size": "1,675-6,700",
+        "biggest_threat": "Poisoning, power lines",
+        "most_distinctive_feature": "Black bristly feathers under its bill",
+        "other_name(s)": "Lammergeier",
+        "wingspan": "7.5 feet to 9 feet",
+        "incubation_period": "53-60",
+        "litter_size": "1-2",
+        "habitat": "Rocky cliffs, shrublands, forests",
+        "predators": "Humans",
+        "diet": "Carnivore",
+        "average_litter_size": "1-2",
+        "type": "bird",
+        "common_name": "Bearded vulture",
+        "number_of_species": "11",
+        "location": "Asia, Africa, Europe",
+        "average_clutch_size": "-2",
+        "nesting_location": "Rocky ledges",
+        "age_of_molting": "3 months",
+        "color": "GreyYellowRedBlackCream",
+        "skin_type": "Feathers",
+        "top_speed": "40 mph"
+      }
+    },
+    {
+      "name": "Brown Bear",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Ursidae",
+        "genus": "Ursus",
+        "scientific_name": "Ursus arctos"
+      },
+      "locations": [
+        "Asia",
+        "Eurasia",
+        "Europe",
+        "North-America"
+      ],
+      "characteristics": {
+        "main_prey": "Fish, Fruit, Insects",
+        "distinctive_feature": "Powerful forearms and hibernate in the winter",
+        "habitat": "Forest and mountainous regions",
+        "predators": "Human, Wolf, Cougar",
+        "diet": "Omnivore",
+        "average_litter_size": "3",
+        "lifestyle": "Solitary",
+        "favorite_food": "Fish",
+        "type": "Mammal",
+        "slogan": "A dominant predator in it's environment!",
+        "color": "BrownBlackTan",
+        "skin_type": "Fur",
+        "top_speed": "35 mph",
+        "lifespan": "20 - 30 years",
+        "weight": "136kg - 390kg (300lbs - 860lbs)",
+        "height": "1.5m - 2.8m (5ft - 9.2ft)"
+      }
+    },
+    {
+      "name": "Giant Panda Bear",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Ursidae",
+        "genus": "Ailuropoda",
+        "scientific_name": "Ailuropoda melanoleuca"
+      },
+      "locations": [
+        "Asia"
+      ],
+      "characteristics": {
+        "type": "Mammal",
+        "prey": "Bamboo, Fruits, Rodents",
+        "name_of_young": "Cub",
+        "group_behavior": "Solitary",
+        "estimated_population_size": "2,000",
+        "biggest_threat": "Habitat loss",
+        "most_distinctive_feature": "Extension of wrist bone acts as a thumb",
+        "other_name(s)": "Giant Bear Cat, Bamboo Bear",
+        "gestation_period": "5 months",
+        "habitat": "High-altitude, moist bamboo forest",
+        "diet": "Omnivore",
+        "average_litter_size": "1",
+        "lifestyle": "Diurnal/Nocturnal",
+        "common_name": "Giant Panda, Giant Panda Bear",
+        "number_of_species": "1",
+        "location": "Mountains of central China",
+        "slogan": "Bamboo makes up 99 per cent of their diet!",
+        "group": "Mammal",
+        "color": "BrownBlackWhite",
+        "skin_type": "Fur",
+        "top_speed": "20 mph",
+        "lifespan": "20 - 35 years",
+        "weight": "110kg - 250kg (242lbs - 551lbs)",
+        "height": "1.5m - 1.8m (4.9ft - 6ft)",
+        "age_of_sexual_maturity": "4 - 8 years",
+        "age_of_weaning": "12 - 15 months"
+      }
+    },
+    {
+      "name": "Grizzly Bear",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Ursidae",
+        "genus": "Ursus",
+        "scientific_name": "Ursus Arctos Horriblis"
+      },
+      "locations": [
+        "North-America"
+      ],
+      "characteristics": {
+        "main_prey": "Salmon, Fruit, Fish",
+        "distinctive_feature": "Strong, powerful shoulders and enormous claws",
+        "habitat": "Forest and mountainous regions",
+        "predators": "Human, Cougars",
+        "diet": "Omnivore",
+        "average_litter_size": "2",
+        "lifestyle": "Solitary",
+        "favorite_food": "Salmon",
+        "type": "Mammal",
+        "slogan": "Less than 10% make it into adulthood",
+        "color": "BlackDark Brown",
+        "skin_type": "Fur",
+        "top_speed": "35 mph",
+        "lifespan": "15 - 25 years",
+        "weight": "181kg - 318kg (400lbs - 700lbs)",
+        "height": "2.1m - 3m (7ft - 10ft)"
+      }
+    },
+    {
+      "name": "North American Black Bear",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Ursidae",
+        "genus": "Ursus",
+        "scientific_name": "Ursus americanus"
+      },
+      "locations": [
+        "North-America"
+      ],
+      "characteristics": {
+        "prey": "Fruits, Nuts, Rodents",
+        "name_of_young": "Cub",
+        "group_behavior": "Solitary",
+        "estimated_population_size": "800,000",
+        "biggest_threat": "Local hunting and habitat loss",
+        "most_distinctive_feature": "Thick fur and long, pointed snout",
+        "other_name(s)": "American Black Bear",
+        "gestation_period": "220 days",
+        "habitat": "Forest and woodland",
+        "predators": "Grizzly Bear, Fox, Birds of Prey",
+        "diet": "Omnivore",
+        "average_litter_size": "3",
+        "lifestyle": "Nocturnal",
+        "common_name": "Black Bear",
+        "number_of_species": "16",
+        "location": "North America",
+        "slogan": "Short claws make them good tree climbers!",
+        "group": "Mammal",
+        "color": "BlackTanDark Brown",
+        "skin_type": "Fur",
+        "type":"man",
+        "top_speed": "30 mph",
+        "lifespan": "15 - 30 years",
+        "weight": "100kg - 270kg (220lbs - 594lbs)",
+        "height": "1.3m - 1.8m (4.25ft - 6ft)",
+        "age_of_sexual_maturity": "4 - 6 years",
+        "age_of_weaning": "6 - 8 months"
+      }
+    },
+    {
+      "name": "Polar Bear",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Ursidae",
+        "genus": "Ursus",
+        "scientific_name": "Ursus maritimus"
+      },
+      "locations": [
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Ocean"
+      ],
+      "characteristics": {
+        "type":"man",
+        "prey": "Seal, Walrus, Seabirds",
+        "name_of_young": "Cub",
+        "group_behavior": "Solitary",
+        "estimated_population_size": "20,000 - 25,000",
+        "biggest_threat": "Global warming",
+        "most_distinctive_feature": "Clear not white fur and black skin",
+        "other_name(s)": "Nanuuq",
+        "gestation_period": "6 - 9 months",
+        "habitat": "Coastal ice fields and floating ice",
+        "diet": "Carnivore",
+        "average_litter_size": "2",
+        "lifestyle": "Diurnal",
+        "common_name": "Polar Bear",
+        "number_of_species": "1",
+        "location": "Arctic Ocean",
+        "slogan": "Could be extinct within the next 30 years!",
+        "group": "Mammal",
+        "color": "YellowWhite",
+        "skin_type": "Fur",
+        "top_speed": "25 mph",
+        "lifespan": "20 - 30 years",
+        "weight": "150kg - 600kg (330lbs - 1,322lbs)",
+        "length": "2m - 2.5m (6.5ft - 8.3ft)",
+        "age_of_sexual_maturity": "3 - 5 years",
+        "age_of_weaning": "2 - 3 years"
+      }
+    },
+    {
+      "name": "Russian Bear Dog",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Canis",
+        "scientific_name": "Canis lupus"
+      },
+      "locations": [
+        "Eurasia"
+      ],
+      "characteristics": {
+        "temperament": "Bold and Fearless",
+        "diet": "Omnivore",
+        "color": "BrownGreyBlackCream",
+        "skin_type": "Hair",
+        "average_litter_size": "2",
+        "lifespan": "10 to 12 years",
+        "weight": "170 pounds",
+        "height": "23 to 30 inches"
+      }
+    },
+    {
+      "name": "Spectacled Bear",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Ursidae",
+        "genus": "Tremarctos",
+        "scientific_name": "Tremarctos Ornatus"
+      },
+      "locations": [
+        "South-America"
+      ],
+      "characteristics": {
+        "main_prey": "Berries, Mice, Birds",
+        "distinctive_feature": "Light spectacles on face and long claws",
+        "habitat": "Coastal forests and deserts",
+        "predators": "Human, Jaguar, Mountain lion",
+        "diet": "Omnivore",
+        "average_litter_size": "2",
+        "lifestyle": "Solitary",
+        "favorite_food": "Berries",
+        "type": "Mammal",
+        "slogan": "Native to the Andes mountains of South America!",
+        "color": "GreyBlackWhite",
+        "skin_type": "Fur",
+        "top_speed": "30 mph",
+        "lifespan": "20 - 30 years",
+        "weight": "130kg - 200kg (286lbs - 440lbs)",
+        "height": "1.5m - 2m (4.9ft - 6.6ft)"
+      }
+    },
+    {
+      "name": "Sun Bear",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Ursidae",
+        "genus": "Helarctos",
+        "scientific_name": "Helarctos malayanus"
+      },
+      "locations": [
+        "Asia"
+      ],
+      "characteristics": {
+        "prey": "Fruits, Honey, Insects",
+        "name_of_young": "Cub",
+        "group_behavior": "Solitary",
+        "estimated_population_size": "Unknown",
+        "biggest_threat": "Hunting and habitat loss",
+        "most_distinctive_feature": "Yellow or orange U-shaped marking on chest",
+        "other_name(s)": "Malaysian Sun Bear, Malay Bear, Honey Bear, Dog Bear",
+        "gestation_period": "3 - 8 months",
+        "habitat": "Primarily, lowland tropical forests",
+        "predators": "Tiger, Snakes, Birds of Prey",
+        "diet": "Omnivore",
+        "average_litter_size": "2",
+        "lifestyle": "Diurnal/Nocturnal",
+        "common_name": "Sun Bear",
+        "number_of_species": "2",
+        "location": "South-east Asia",
+        "slogan": "The smallest species of bear in the world!",
+        "group": "Mammal",
+        "color": "BrownGreyYellowRedBlackWhiteOrange",
+        "skin_type": "Fur",
+        "top_speed": "30 mph",
+        "lifespan": "15 - 30 years",
+        "weight": "30kg - 60kg (66lbs - 132lbs)",
+        "height": "1.2m - 1.5m (4ft - 5ft)",
+        "age_of_sexual_maturity": "3 - 4 years",
+        "age_of_weaning": "18 months"
+      }
+    },
+    {
+      "name": "Teddy Bear Hamster",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Rodentia",
+        "family": "Cricetidae",
+        "genus": "Mesocricetus",
+        "scientific_name": "Mesocricetus auratus"
+      },
+      "locations": [
+        "Asia",
+        "Europe"
+      ],
+      "characteristics": {
+        "prey": "Seed, fruit, vegetables, and grains",
+        "name_of_young": "Pup",
+        "group_behavior": "Solitary",
+        "estimated_population_size": "Unknown",
+        "most_distinctive_feature": "Large ears",
+        "other_name(s)": " Long-haired Syrian hamsters",
+        "gestation_period": "16 days",
+        "litter_size": "6-12 pups",
+        "habitat": "Cage, aquarium",
+        "predators": "Snakes, domesticated dogs and cats, foxes, and birds",
+        "diet": "Herbivore",
+        "type": "Mammal",
+        "common_name": "Teddy Bear Hamster",
+        "location": "Originated in Syria",
+        "group": "Solitary",
+        "color": "BrownGreyBlackWhiteGoldCreamDark GreyWhite-BrownGolden",
+        "skin_type": "Fur",
+        "lifespan": "2-3 years",
+        "weight": "3.5-5.3 ounces",
+        "length": "6 inches",
+        "average_litter_size": "2",
+        "age_of_sexual_maturity": "6 months",
+        "age_of_weaning": "4 weeks"
+      }
+    }
+  ],
+  "fox":[
+    {
+      "name": "American Foxhound",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Canis",
+        "scientific_name": "Canis lupus"
+      },
+      "locations": [
+        "North-America"
+      ],
+      "characteristics": {
+        "distinctive_feature": "Long legs and wide, flat ears",
+        "temperament": "Mix of affectionate, loving, and stubborn",
+        "training": "Medium",
+        "diet": "Omnivore",
+        "average_litter_size": "7",
+        "type": "Hound",
+        "common_name": "American Foxhound",
+        "slogan": "Sweet, kind, loyal, and very loving!",
+        "group": "Dog",
+        "color": "BlackWhiteTan",
+        "skin_type": "Hair",
+        "lifespan": "10 to 12 years"
+      }
+    },
+    {
+      "name": "Arctic Fox",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Vulpes",
+        "scientific_name": "Vulpes lagopus"
+      },
+      "locations": [
+        "Eurasia",
+        "Europe",
+        "North-America"
+      ],
+      "characteristics": {
+        "main_prey": "Lemmings, voles, hares, other small rodents, berries, insects",
+        "name_of_young": "kit",
+        "distinctive_feature": "Thick fur that changes colour with season",
+        "habitat": "Polar forest regions",
+        "predators": "Snowy Owl, Wolf, Polar Bear",
+        "diet": "Carnivore",
+        "average_litter_size": "5",
+        "lifestyle": "Solitary",
+        "favorite_food": "Lemmings",
+        "type": "Mammal",
+        "slogan": "Extremely thick winter fur!",
+        "color": "GreyBlackWhite",
+        "skin_type": "Fur",
+        "top_speed": "30 mph",
+        "lifespan": "7 - 10 years",
+        "weight": "1.4kg - 9.4kg (3lbs - 21lbs)",
+        "length": "70cm - 110cm (28in - 43in)"
+      }
+    },
+    {
+      "name": "Cross Fox",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Vulpes",
+        "scientific_name": "Vulpes vulpes"
+      },
+      "locations": [
+        "North-America"
+      ],
+      "characteristics": {
+        "prey": "Birds, small mammals, insects, spiders, worms, reptiles",
+        "name_of_young": "Cub, pup, kit",
+        "group_behavior": "Solitary",
+        "estimated_population_size": "Tens of thousands",
+        "biggest_threat": "Humans, wolves, coyotes, mountain lions, eagles, bears",
+        "most_distinctive_feature": "The cross on its back.",
+        "gestation_period": "49 to 55 days",
+        "litter_size": "5-13 cubs",
+        "habitat": "Forests, prairies, deserts, mountains, cities, suburbs, tundra, scrub, near rivers, farms",
+        "predators": "Gray wolves, coyotes, eagles, bears, humans and cougars",
+        "diet": "Carnivore",
+        "type": "mammal",
+        "common_name": "cross fox",
+        "location": "North America and Canada",
+        "color": "RedBlackSilver",
+        "skin_type": "Fur",
+        "top_speed": "31 mph",
+        "lifespan": "10 to 15 years in captivity, seven years in the wild",
+        "height": "14 to 20 inches",
+        "length": "18 to 35 inches with 12 to 22 inch long tails, males a bit larger",
+        "age_of_sexual_maturity": "10 months",
+        "age_of_weaning": "56 to 70 days"
+      }
+    },
+    {
+      "name": "Darwin’s fox",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Lycalopex",
+        "scientific_name": "Lycalopex fulvipes"
+      },
+      "locations": [
+        "South-America"
+      ],
+      "characteristics": {
+        "prey": "Small mammals, reptiles, insects and other invertebrates",
+        "name_of_young": "Pup, cub, kit",
+        "group_behavior": "Solitary",
+        "estimated_population_size": "639 adults, conservation status endangered",
+        "biggest_threat": "Habitat fragmentation, feral and domesticated dogs",
+        "most_distinctive_feature": "Its small size",
+        "other_name(s)": "Darwin's zorro, zorro chilote, zorro de Darwin",
+        "gestation_period": "Perhaps two months",
+        "litter_size": "Two to three",
+        "habitat": "Temperate rainforests, shrubland",
+        "diet": "Omnivore",
+        "type": "Mammal",
+        "number_of_species": "1",
+        "location": "Chile",
+        "color": "GreyRedBlack",
+        "skin_type": "Fur",
+        "top_speed": "45 mph",
+        "lifespan": "Seven years",
+        "weight": "4 to 8.7 pounds",
+        "length": "20.79 inches",
+        "age_of_sexual_maturity": "About one year",
+        "age_of_weaning": "About two months"
+      }
+    },
+    {
+      "name": "English Foxhound",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Canis",
+        "scientific_name": "Canis lupus"
+      },
+      "locations": [
+        "Europe"
+      ],
+      "characteristics": {
+        "temperament": "Friendly, independent, affectionate",
+        "diet": "Omnivore",
+        "color": "BlackWhiteTanMulti-colored",
+        "skin_type": "Hair",
+        "lifespan": "10 to 13 years",
+        "weight": "75 pounds"
+      }
+    },
+    {
+      "name": "Fennec Fox",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Vulpes",
+        "scientific_name": "Vulpes zerda"
+      },
+      "locations": [
+        "Africa",
+        "Asia"
+      ],
+      "characteristics": {
+        "prey": "Berries, Fruit, Rodents, Reptiles",
+        "name_of_young": "Kit",
+        "group_behavior": "Sociable",
+        "estimated_population_size": "Unknown",
+        "biggest_threat": "Habitat loss and hunting",
+        "most_distinctive_feature": "Large, over-sized ears",
+        "gestation_period": "52 days",
+        "habitat": "Sandy and semi-arid desert",
+        "diet": "Omnivore",
+        "average_litter_size": "3",
+        "lifestyle": "Nocturnal",
+        "common_name": "Fennec Fox",
+        "number_of_species": "1",
+        "location": "North Africa",
+        "slogan": "Found in the African Sahara Desert!",
+        "group": "Mammal",
+        "color": "WhiteCreamSandy",
+        "skin_type": "Fur",
+        "top_speed": "25 mph",
+        "lifespan": "10 - 14 years",
+        "weight": "1kg - 1.5kg (2.2lbs - 3.3lbs)",
+        "length": "24cm -41cm (9in - 16in)",
+        "age_of_sexual_maturity": "9 months",
+        "age_of_weaning": "5 weeks"
+      }
+    },
+    {
+      "name": "Fox",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Vulpes",
+        "scientific_name": "Vulpes vulpes"
+      },
+      "locations": [
+        "Africa",
+        "Asia",
+        "Eurasia",
+        "Europe",
+        "North-America"
+      ],
+      "characteristics": {
+        "main_prey": "Rabbits, Birds, Lizards",
+        "distinctive_feature": "Pointed ears and long bushy tail",
+        "habitat": "Woodland areas and urban parks",
+        "predators": "Human, Bears, Eagles",
+        "diet": "Carnivore",
+        "average_litter_size": "5",
+        "lifestyle": "Solitary",
+        "favorite_food": "Rabbit",
+        "type": "Mammal",
+        "slogan": "There are 12 different species in the world!",
+        "color": "BrownRedBlackTan",
+        "skin_type": "Fur",
+        "top_speed": "29 mph",
+        "lifespan": "3 - 11 years",
+        "weight": "5kg - 11kg (11lbs - 24lbs)",
+        "length": "40cm - 83cm (16in - 33in)"
+      }
+    },
+    {
+      "name": "Fox Snakes",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Reptilia",
+        "order": "Squamata",
+        "family": "Colubridae",
+        "genus": "Pantherophis",
+        "scientific_name": "P. vulpinus and P. ramspotti"
+      },
+      "locations": [
+        "North-America"
+      ],
+      "characteristics": {
+        "prey": "Mice, rats, young rabbits, ground-nesting birds and sometimes their eggs, frogs, lizards",
+        "main_prey": "Mice and birds",
+        "name_of_young": "Hatchling",
+        "group_behavior": "Solitary",
+        "biggest_threat": "Mistaken identity, roads",
+        "most_distinctive_feature": "Copper or bronze-colored head",
+        "distinctive_feature": "Strongly patterned alternating blotches down the length of their spine.",
+        "temperament": "Shy, but generally docile.",
+        "litter_size": "6-30",
+        "predators": "Foxes, coyotes, hawks.",
+        "diet": "Carnivore",
+        "lifestyle": "Diurnalor Nocturnal Depending on Region and Season",
+        "favorite_food": "Mice",
+        "common_name": "Fox snake",
+        "number_of_species": "-1",
+        "color": "BrownGreyBeigeChestnut",
+        "skin_type": "Scales",
+        "lifespan": "approximately 20 years",
+        "average_litter_size": "4"
+      }
+    },
+    {
+      "name": "Fox Squirrel",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Rodentia",
+        "family": "Sciuridae",
+        "genus": "Sciurus",
+        "scientific_name": "Sciurus niger"
+      },
+      "locations": [
+        "Central-America",
+        "North-America"
+      ],
+      "characteristics": {
+        "prey": "Insects, bird eggs",
+        "name_of_young": "Juveniles",
+        "group_behavior": "Social",
+        "biggest_threat": "Overhunting, forest destruction",
+        "most_distinctive_feature": "Large size and large, bushy tail",
+        "other_name(s)": "Bryant's fox, eastern fox, stump-eared, racoon, and monkey-faced squirrel",
+        "gestation_period": "44-45 days",
+        "litter_size": "2-4",
+        "habitat": "Leaf nests and tree dens",
+        "predators": "Birds of prey, carnivorous mammals",
+        "diet": "Omnivore",
+        "type": "rodent",
+        "common_name": "fox squirrel",
+        "number_of_species": "10",
+        "location": "Eastern and central United States",
+        "group": "social",
+        "color": "BrownGrey-Brown",
+        "skin_type": "Fur",
+        "top_speed": "17 mph",
+        "lifespan": "6-12.6 years",
+        "length": "21 inches",
+        "age_of_sexual_maturity": "10-11 months",
+        "age_of_weaning": "2 months",
+        "average_litter_size": "3"
+      }
+    },
+    {
+      "name": "Fox Terrier",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Canis",
+        "scientific_name": "Canis Lupus"
+      },
+      "locations": [
+        "Europe"
+      ],
+      "characteristics": {
+        "diet": "Omnivore",
+        "common_name": "Fox Terrier",
+        "slogan": "First bred in the mid-19th century!",
+        "group": "Terrier",
+        "skin_type": "Hair",
+        "lifespan": "14 years",
+        "weight": "8kg (18lbs)"
+      }
+    },
+    {
+      "name": "Golden-Crowned Flying Fox",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Chiroptera",
+        "family": "Pteropodidae",
+        "genus": "Acerodon",
+        "scientific_name": "Acerodon jubatus"
+      },
+      "locations": [
+        "Asia"
+      ],
+      "characteristics": {
+        "name_of_young": "Pup",
+        "group_behavior": "Group",
+        "estimated_population_size": "10,000 – 20,000",
+        "biggest_threat": "Human hunters",
+        "most_distinctive_feature": "Soft golden cap",
+        "litter_size": "One",
+        "habitat": "Caves and forests",
+        "predators": "Reticulated pythons, eagles, humans",
+        "diet": "Herbivore",
+        "favorite_food": "Figs, leaves, some other fruits",
+        "common_name": "Golden crowned flying fox",
+        "group": "They live in large gatherings in the woods",
+        "color": "BlackGold",
+        "skin_type": "Hair",
+        "lifespan": "unknown",
+        "weight": "3.1 pounds",
+        "height": "7 and 11.4 inches",
+        "age_of_sexual_maturity": "2 years for females",
+        "average_litter_size": "3"
+      }
+    },
+    {
+      "name": "Gray Fox",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Urocyon",
+        "scientific_name": "Urocyon cinereoargenteus"
+      },
+      "locations": [
+        "Central-America",
+        "North-America",
+        "South-America"
+      ],
+      "characteristics": {
+        "prey": "Rodents, birds, insects, and fruit",
+        "name_of_young": "Pups or kits",
+        "group_behavior": "SolitaryFamily units",
+        "estimated_population_size": "Unknown",
+        "biggest_threat": "Hunting and habitat loss",
+        "most_distinctive_feature": "The silver gray coat of fur",
+        "other_name(s)": "Tree fox or cat fox",
+        "gestation_period": "53-63 days",
+        "litter_size": "1-7 kits",
+        "habitat": "Forests and plains",
+        "diet": "Omnivore",
+        "type": "Mammal",
+        "common_name": "Gray Fox",
+        "number_of_species": "1",
+        "location": "North America and northern part of South America",
+        "color": "GreyRedBlackWhite",
+        "skin_type": "Fur",
+        "top_speed": "28 mph",
+        "lifespan": "6-12 years",
+        "weight": "3.2-6.4kg (7-14lbs)",
+        "height": "30-40cm (12-16in)",
+        "average_litter_size": "3",
+        "length": "89-105cm (35-41in)",
+        "age_of_sexual_maturity": "10 months",
+        "age_of_weaning": "2-6 weeks"
+      }
+    },
+    {
+      "name": "Kit Fox",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Vulpes",
+        "scientific_name": "Vulpes macrotis merriam"
+      },
+      "locations": [
+        "Central-America",
+        "North-America"
+      ],
+      "characteristics": {
+        "prey": "kangaroo rat, cottontail, jackrabbit, reptiles, insects, birds",
+        "name_of_young": "pup",
+        "group_behavior": "Solitary",
+        "biggest_threat": "habitat destruction, competition from coyotes",
+        "most_distinctive_feature": "tiny bodies and enormous ears",
+        "gestation_period": "49 - 55 days",
+        "litter_size": "one to seven pups",
+        "habitat": "desert, grasslands",
+        "predators": "coyotes, bobcats, red foxes, birds of prey",
+        "diet": "Omnivore",
+        "type": "mammal",
+        "common_name": "kit fox",
+        "number_of_species": "1",
+        "location": "Southwest United States, North and Central Mexico",
+        "group": "solitary",
+        "color": "GreyYellowBlackWhite",
+        "skin_type": "Fur",
+        "top_speed": "25 mph",
+        "lifespan": "seven years in the wild. 12 years in captivity",
+        "weight": "4.5 to five pounds",
+        "height": "nine to 12 inches",
+        "length": "20 inches (body), 12 inches (tail)",
+        "age_of_sexual_maturity": "10 months",
+        "age_of_weaning": "eight weeks",
+        "average_litter_size": "5"
+      }
+    },
+    {
+      "name": "Marble Fox",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Vulpes",
+        "scientific_name": "Vulpes vulpes"
+      },
+      "locations": [
+        "North-America"
+      ],
+      "characteristics": {
+        "prey": "Rodents, birds, reptiles, insects, and more",
+        "name_of_young": "Kits",
+        "group_behavior": "Solitary",
+        "estimated_population_size": "Unknown",
+        "biggest_threat": "Fur industry",
+        "most_distinctive_feature": "The marble-colored coat",
+        "other_name(s)": "Canadian marble fox or Arctic marble fox",
+        "gestation_period": "Up to 2 months",
+        "litter_size": "1-13 kits",
+        "habitat": "Human captivity",
+        "predators": "None in captivity",
+        "diet": "Omnivore",
+        "type": "Mammal",
+        "common_name": "Marble fox",
+        "number_of_species": "1",
+        "location": "Worldwide",
+        "color": "BrownBlackWhite",
+        "average_litter_size": "2",
+        "skin_type": "Fur",
+        "top_speed": "30 mph",
+        "lifespan": "Up to 15 years",
+        "weight": "1-10kg (3-21lbs)",
+        "height": "Up to 69cm (27in)",
+        "length": "Up to 63cm (25in) in body length, not including the tail",
+        "age_of_sexual_maturity": "10 months",
+        "age_of_weaning": "50-70 days"
+      }
+    },
+    {
+      "name": "Red Fox",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Vulpes",
+        "scientific_name": "Vulpes vulpes"
+      },
+      "locations": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North-America",
+        "Oceania"
+      ],
+      "characteristics": {
+        "prey": "Rabbits, mice, voles, birds, frogs, fish, eggs, and fruits and vegetables",
+        "name_of_young": "Kits or pups",
+        "group_behavior": "Family units",
+        "estimated_population_size": "Millions",
+        "biggest_threat": "Hunting",
+        "most_distinctive_feature": "The bushy tail",
+        "other_name(s)": "Silver fox or cross fox",
+        "gestation_period": "49-55 days",
+        "litter_size": "1-13",
+        "habitat": "Forests, grasslands, tundra, prairie, deserts, and mountains",
+        "predators": "Wolves, cougars, lynxes, bobcats, eagles, and owls",
+        "diet": "Omnivore",
+        "average_litter_size": "1-13",
+        "common_name": "Red fox",
+        "number_of_species": "1",
+        "location": "North America, Europe, Asia, North Africa, and Australia",
+        "color": "BrownGreyRedBlackSilver",
+        "skin_type": "Hair",
+        "top_speed": "31 mph",
+        "lifespan": "2-4 years in the wild, 10-12 in captivity",
+        "weight": "6.5-24 lbs",
+        "height": "16 inches",
+        "length": "36-42 inches",
+        "age_of_sexual_maturity": "10 months",
+        "age_of_weaning": "56-70 days"
+      }
+    },
+    {
+      "name": "Smooth Fox Terrier",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Canis",
+        "scientific_name": "Canis lupus"
+      },
+      "locations": [
+        "Europe"
+      ],
+      "characteristics": {
+        "temperament": "Energetic and curious",
+        "diet": "Omnivore",
+        "color": "BrownBlackWhiteTan",
+        "skin_type": "Hair",
+        "lifespan": "12 – 15 years",
+        "height": "18 lbs"
+      }
+    },
+    {
+      "name": "Tibetan Fox",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Vulpes",
+        "scientific_name": "Vulpes ferrilata"
+      },
+      "locations": [
+        "Asia"
+      ],
+      "characteristics": {
+        "main_prey": "pikas, marmots, rodents, lizards, and other small prey",
+        "name_of_young": "Kits",
+        "group_behavior": "Pair",
+        "estimated_population_size": "40,000",
+        "biggest_threat": "Pika population reduction",
+        "most_distinctive_feature": "Square-shaped skull",
+        "other_name(s)": "Tibetan sand fox",
+        "gestation_period": "50-60 days",
+        "litter_size": "2-4",
+        "habitat": "Tibetan Plateau",
+        "predators": "Humans",
+        "diet": "Carnivore",
+        "type": "Mammal",
+        "common_name": "Tibetan fox",
+        "color": "GreyTan",
+        "skin_type": "Fur",
+        "top_speed": "44 mph",
+        "lifespan": "8-10 years",
+        "weight": "8-12 lbs (4-5 kg)",
+        "length": "24-28 in (60-70 cm)",
+        "age_of_sexual_maturity": "1 year",
+        "age_of_weaning": "5-9 weeks",
+        "average_litter_size": "7"
+      }
+    }
+
+  ],
+  "dog": [
+    {
+      "name": "African Wild Dog",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Lycaon",
+        "scientific_name": "Lycaon pictus"
+      },
+      "locations": [
+        "Africa"
+      ],
+      "characteristics": {
+        "prey": "Antelope, Warthog, Rodents",
+        "name_of_young": "Pup",
+        "group_behavior": "Pack",
+        "estimated_population_size": "Less than 5,000",
+        "biggest_threat": "Habitat loss",
+        "most_distinctive_feature": "Four toes on each foot rather than five",
+        "other_name(s)": "Hunting Dog, Painted Dog, Painted Wolf",
+        "gestation_period": "70 days",
+        "habitat": "Open plains and savanna",
+        "predators": "Lions, Hyenas, Humans",
+        "diet": "Carnivore",
+        "average_litter_size": "8",
+        "lifestyle": "Crepuscular",
+        "common_name": "African Wild Dog",
+        "number_of_species": "1",
+        "location": "sub-Saharan Africa",
+        "slogan": "Also known as the painted dog!",
+        "group": "Mammal",
+        "color": "BrownGreyRedBlackWhiteGoldTan",
+        "skin_type": "Fur",
+        "top_speed": "45 mph",
+        "lifespan": "10 - 13 years",
+        "weight": "17kg - 36kg (39lbs - 79lbs)",
+        "length": "75cm - 110cm (29in - 43in)",
+        "age_of_sexual_maturity": "12 - 18 months",
+        "age_of_weaning": "3 months"
+      }
+    },
+    {
+      "name": "American Bulldog",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Canis",
+        "scientific_name": "Canis Lupus"
+      },
+      "locations": [
+        "North-America"
+      ],
+      "characteristics": {
+        "distinctive_feature": "Small pendant shaped ears and strong body",
+        "temperament": "Assertive but loyal and friendly",
+        "training": "Hard",
+        "diet": "Omnivore",
+        "average_litter_size": "8",
+        "type": "Mastiff",
+        "common_name": "American Bulldog",
+        "slogan": "Can jump up to 6ft high!",
+        "group": "Dog",
+        "color": "BrownRedBlackWhiteTanBrindle",
+        "skin_type": "Hair"
+      }
+    },
+    {
+      "name": "American Dog Tick",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Arthropoda",
+        "class": "Arachnida",
+        "order": "Ixodida",
+        "family": "Ixodidae",
+        "genus": "Dermacentor",
+        "scientific_name": "Dermacentor variabilis"
+      },
+      "locations": [
+        "North-America"
+      ],
+      "characteristics": {
+        "prey": "Blood",
+        "name_of_young": "Larvae",
+        "average_litter_size": "8",
+        "group_behavior": "Solitary",
+        "biggest_threat": "Ingestion by mites or nematodes",
+        "most_distinctive_feature": "Brown bodies with variable tan markings",
+        "other_name(s)": "Wood tick, dog tick",
+        "gestation_period": "1-30 days",
+        "litter_size": "3,000-5,000 eggs",
+        "diet": "Omnivore",
+        "type": "Arachnid",
+        "common_name": "Dog tick",
+        "number_of_species": "1",
+        "location": "North America",
+        "group": "Ticks",
+        "color": "Brown",
+        "skin_type": "Exoskeleton",
+        "lifespan": "1-5 years",
+        "length": "3-15 mm",
+        "age_of_sexual_maturity": "50-600 days"
+      }
+    },
+    {
+      "name": "American Eskimo Dog",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Canis",
+        "scientific_name": "Canis lupus"
+      },
+      "locations": [
+        "Europe",
+        "North-America"
+      ],
+      "characteristics": {
+        "distinctive_feature": "Bright, white coat and pointed ears",
+        "temperament": "Playful and smart",
+        "training": "Fairly easy",
+        "diet": "Omnivore",
+        "average_litter_size": "5",
+
+        "common_name": "American Eskimo Dog",
+        "slogan": "The American Eskimo has splendid all white fur and an upturned tail",
+        "group": "Dog",
+        "color": "White",
+        "skin_type": "Hair",
+        "lifespan": "13 - 15 years"
+      }
+    },
+    {
+      "name": "Anatolian Shepherd Dog",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Canis",
+        "scientific_name": "Canis lupus"
+      },
+      "locations": [
+        "Europe"
+      ],
+      "characteristics": {
+        "temperament": "Courageous, powerful, protective, calm and devoted.",
+        "training": "Should be trained from an early age and respond best to motivational training as they can be dominant and stubborn",
+        "litter_size": "5-10 pups",
+        "diet": "Omnivore",
+        "average_litter_size": "9",
+        "common_name": "Anatolian Shepherd Dog",
+        "slogan": "Guards it's master's flocks!",
+        "group": "Guard",
+        "color": "BrownFawnRedBlueWhiteBrindleCream",
+        "skin_type": "Hair",
+        "lifespan": "11-13 years",
+        "weight": "80-150 pounds",
+        "height": "27-29 inches"
+      }
+    },
+    {
+      "name": "Appenzeller Dog",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Canis",
+        "scientific_name": "Canis lupus"
+      },
+      "locations": [
+        "Europe"
+      ],
+      "characteristics": {
+        "temperament": "Energetic and alert",
+        "training": "Should be trained from an early age and respond best to firm and consistent training",
+        "diet": "Omnivore",
+        "average_litter_size": "6",
+        "common_name": "Appenzeller Dog",
+        "origin": "Switzerland",
+        "slogan": "Herding dog by nature!",
+        "group": "Sennenhund",
+        "color": "BlackWhiteTan",
+        "skin_type": "Hair",
+        "lifespan": "12 – 14 years"
+      }
+    },
+    {
+      "name": "Australian Bulldog",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Hemichordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Canis",
+        "scientific_name": "Canis lupus"
+      },
+      "locations": [
+        "Oceania"
+      ],
+      "characteristics": {
+        "temperament": "Intelligent, fiercely loyal, and sweet-natured",
+        "diet": "Omnivore",
+        "color": "FawnRedBrindleOrangePeachBlack-Brown",
+        "skin_type": "Hair",
+        "lifespan": "12 years",
+        "weight": "78 lbs",
+        "average_litter_size": "8"
+      }
+    },
+    {
+      "name": "Australian Cattle Dog",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Canis",
+        "scientific_name": "Canis lupus"
+      },
+      "locations": [
+        "Oceania"
+      ],
+      "characteristics": {
+        "temperament": "Strong minded yet loyal and loving",
+        "training": "Should be trained from an early age and respond best to firm and fair training",
+        "diet": "Omnivore",
+        "average_litter_size": "5",
+        "common_name": "Australian Cattle Dog",
+        "slogan": "High energy levels and active minds!",
+        "group": "Herd Dog",
+        "color": "GreyRedBlack",
+        "skin_type": "Hair",
+        "lifespan": "13-15 years",
+        "height": "17-20 inches"
+      }
+    },
+    {
+      "name": "Australian Kelpie Dog",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Canis",
+        "scientific_name": "Canis lupus"
+      },
+      "locations": [
+        "Oceania"
+      ],
+      "characteristics": {
+        "temperament": "Alert and intelligent",
+        "training": "Should be trained from an early age and should be firm but fair",
+        "diet": "Omnivore",
+        "average_litter_size": "5",
+        "common_name": "Australian Kelpie Dog",
+        "slogan": "Friendly, intelligent and energetic!",
+        "group": "Herd Dog",
+        "color": "BrownRedBlackTan",
+        "skin_type": "Hair",
+        "lifespan": "10 to 13 years",
+        "weight": "25 to 45 pounds",
+        "height": "17 to 20 inches"
+      }
+    },
+    {
+      "name": "Basenji Dog",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Canis",
+        "scientific_name": "Canis lupus"
+      },
+      "locations": [
+        "Africa"
+      ],
+      "characteristics": {
+        "temperament": "Loyal, stubborn, and affectionate",
+        "training": "Should be trained from an early age as their independent nature can make them stubborn",
+        "diet": "Omnivore",
+        "average_litter_size": "5",
+        "common_name": "Basenji Dog",
+        "slogan": "Alert, affectionate and energetic!",
+        "color": "BrownRedBlackWhiteTanBrindle",
+        "skin_type": "Hair",
+        "lifespan": "12-14 years",
+        "weight": "24, lbs"
+      }
+    },
+    {
+      "name": "Bernese Mountain Dog",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Canis",
+        "scientific_name": "Canis Lupus"
+      },
+      "locations": [
+        "Europe"
+      ],
+      "characteristics": {
+        "temperament": "Intelligent, friendly and alert",
+        "training": "Should be trained from an early age due to their large size",
+        "diet": "Omnivore",
+        "average_litter_size": "7",
+        "common_name": "Bernese Mountain Dog",
+        "slogan": "Very loyal, faithful and affectionate!",
+        "group": "Sennenhund",
+        "color": "BlackWhiteTan",
+        "skin_type": "Hair"
+      }
+    },
+    {
+      "name": "Blue Lacy Dog",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Canis",
+        "scientific_name": "Canis lupus"
+      },
+      "locations": [
+        "North-America"
+      ],
+      "characteristics": {
+        "temperament": "Intelligent, active and alert",
+        "training": "Should be trained from an early age as they can become dominant",
+        "diet": "Omnivore",
+        "average_litter_size": "5",
+        "common_name": "Blue Lacy Dog",
+        "slogan": "Originated in Texas in the mid 1800s!",
+        "group": "Herd",
+        "color": "BrownGreyFawnBlueWhiteTanCream",
+        "skin_type": "Hair"
+      }
+    },
+    {
+      "name": "Bolognese Dog",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Canis",
+        "scientific_name": "Canis Lupus"
+      },
+      "locations": [
+        "Europe"
+      ],
+      "characteristics": {
+        "temperament": "Devoted and lively, yet docile",
+        "training": "Should be trained from an early age due to their hyperactive nature",
+        "diet": "Omnivore",
+        "average_litter_size": "4",
+        "common_name": "Bolognese Dog",
+        "slogan": "From the northern Italian city of Bologna!",
+        "group": "Gun Dog",
+        "color": "White",
+        "skin_type": "Hair"
+      }
+    },
+    {
+      "name": "Boxer Dog",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Canis",
+        "scientific_name": "Canis lupus"
+      },
+      "locations": [
+        "Europe"
+      ],
+      "characteristics": {
+        "temperament": "Intelligent, fearless and strong",
+        "training": "Should be trained from an early age due to their independent nature",
+        "diet": "Omnivore",
+        "average_litter_size": "8",
+        "common_name": "Boxer Dog",
+        "slogan": "Bright, energetic and playful!",
+        "group": "Mastiff",
+        "color": "BrownBlackTan",
+        "skin_type": "Hair"
+      }
+    },
+    {
+      "name": "Brown Dog Tick",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Arthropoda",
+        "class": "Arachnida",
+        "order": "Ixodida",
+        "family": "Ixodidae",
+        "genus": "Rhipicephalus",
+        "scientific_name": "Rhipicephalus sanguineus"
+      },
+      "locations": [
+        "Africa",
+        "Antarctica",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Oceania",
+        "South-America"
+      ],
+      "characteristics": {
+        "prey": "Blood",
+        "name_of_young": "Larvae",
+        "group_behavior": "Solitary",
+        "biggest_threat": "Ingestion by mites or nematodes",
+        "most_distinctive_feature": "Narrow, almost rectangular body",
+        "other_name(s)": "Kennel tick, dog tick",
+        "gestation_period": "1-30 days",
+        "litter_size": "3,000-7,000 eggs",
+        "average_litter_size": "8",
+        "diet": "Omnivore",
+        "type": "Arachnid",
+        "common_name": "Dog tick",
+        "number_of_species": "1",
+        "location": "Everywhere humans live",
+        "group": "Ticks",
+        "color": "Brown",
+        "skin_type": "Exoskeleton",
+        "lifespan": "3-18 months",
+        "length": "2-10 mm",
+        "age_of_sexual_maturity": "30-600 days"
+      }
+    },
+    {
+      "name": "Bulldog",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Canis",
+        "scientific_name": "Canis lupus"
+      },
+      "locations": [
+        "Europe"
+      ],
+      "characteristics": {
+        "temperament": "Gentle, calm and affectionate",
+        "training": "Should be trained from an early age due to their stubborn nature",
+        "diet": "Omnivore",
+        "average_litter_size": "10",
+        "common_name": "Bulldog",
+        "slogan": "Friendly, loving and docile!",
+        "group": "Mastiff",
+        "color": "BrownFawnBlackWhiteTan",
+        "skin_type": "Hair"
+      }
+    },
+    {
+      "name": "Canaan Dog",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Canis",
+        "scientific_name": "Canis Lupus"
+      },
+      "locations": [
+        "Asia"
+      ],
+      "characteristics": {
+        "diet": "Omnivore",
+        "common_name": "Canaan Dog",
+        "color": "BrownRedBlackWhiteTanBrindle",
+        "slogan": "Has a strong survival instinct!",
+        "group": "South",
+        "skin_type": "Hair",
+        "lifespan": "15 years",
+        "weight": "25kg (55lbs)",
+        "average_litter_size": "8"
+      }
+    },
+    {
+      "name": "Canadian Eskimo Dog",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Canis",
+        "scientific_name": "Canis lupus"
+      },
+      "locations": [
+        "North-America"
+      ],
+      "characteristics": {
+        "estimated_population_size": "300",
+        "temperament": "Affectionate, loving, loyal",
+        "diet": "Omnivore",
+        "common_name": "Canadian Eskimo Dog",
+        "skin_type": "Hair",
+        "lifespan": "10 to 15 years",
+        "color": "BrownRedBlackWhiteTanBrindle",
+        "average_litter_size": "8"
+      }
+    },
+    {
+      "name": "Carolina Dog",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Canis",
+        "scientific_name": "Canis Lupus"
+      },
+      "locations": [
+        "North-America"
+      ],
+      "characteristics": {
+        "diet": "Omnivore",
+        "common_name": "Carolina Dog",
+        "slogan": "Wild dog breed discovered in the 1970s!",
+        "group": "South",
+        "skin_type": "Hair",
+        "lifespan": "19 years",
+        "color": "BrownRedBlackWhiteTanBrindle",
+        "weight": "18kg (40lbs)",
+        "average_litter_size": "5"
+      }
+    },
+
+    {
+      "name": "Chinese Crested Dog",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Canis",
+        "scientific_name": "Canis lupus"
+      },
+      "locations": [
+        "Asia"
+      ],
+      "characteristics": {
+        "diet": "Omnivore",
+        "common_name": "Chinese Crested Dog",
+        "slogan": "A hairless breed of dog!",
+        "group": "South",
+        "skin_type": "Hair",
+        "lifespan": "13 years",
+        "weight": "4.5kg (10lbs)",
+        "color": "White",
+        "average_litter_size": "3"
+      }
+    },
+    {
+      "name": "Czechoslovakian Wolfdog",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Canis",
+        "scientific_name": "Canis lupus"
+      },
+      "locations": [
+        "Europe"
+      ],
+      "characteristics": {
+        "name_of_young": "puppy",
+        "most_distinctive_feature": "upright, triangle ears",
+        "temperament": "Intelligent, athletic, and loyal",
+        "litter_size": "6-7 puppies",
+        "diet": "Omnivore",
+        "type": "mammal",
+        "origin": "Czechoslovakia and Slovakia",
+        "color": "GreySilver",
+        "skin_type": "Hair",
+        "top_speed": "62 mph",
+        "lifespan": "10-15 years",
+        "average_litter_size": "5"
+      }
+    },
+    {
+      "name": "Dog Tick",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Arthropoda",
+        "class": "Arachnida",
+        "order": "Ixodida",
+        "family": "Ixodidae",
+        "genus": "Dermacentor",
+        "scientific_name": "Dermacentor variabilis"
+      },
+      "locations": [
+        "Africa",
+        "Antarctica",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Oceania",
+        "South-America"
+      ],
+      "characteristics": {
+        "prey": "Blood",
+        "name_of_young": "Larvae",
+        "group_behavior": "Solitary",
+        "biggest_threat": "Ingestion by mites or nematodes",
+        "most_distinctive_feature": "Ability to expand greatly in size",
+        "other_name(s)": "American dog tick, brown dog tick",
+        "gestation_period": "1-30 days",
+        "litter_size": "2,000-7,000 eggs",
+        "diet": "Omnivore",
+        "type": "Arachnid",
+        "common_name": "Dog tick",
+        "number_of_species": "2",
+        "location": "Everywhere humans live",
+        "color": "Brown",
+        "skin_type": "Exoskeleton",
+        "lifespan": "2-3 years",
+        "length": "2-15 mm",
+        "age_of_sexual_maturity": "30-600 days",
+        "average_litter_size": "7"
+      }
+    },
+    {
+      "name": "Dogo Argentino",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Canis",
+        "scientific_name": "Canis Lupus"
+      },
+      "locations": [
+        "South-America"
+      ],
+      "characteristics": {
+        "diet": "Omnivore",
+        "common_name": "Dogo Argentino",
+        "slogan": "Loyal and affectionate to their family!",
+        "group": "Mastiff",
+        "skin_type": "Hair",
+        "lifespan": "13 years",
+        "weight": "45kg (100lbs)",
+        "color": "White",
+        "average_litter_size": "8"
+      }
+    },
+    {
+      "name": "Dogue De Bordeaux",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Canis",
+        "scientific_name": "Canis lupus"
+      },
+      "locations": [
+        "Europe"
+      ],
+      "characteristics": {
+        "diet": "Omnivore",
+        "common_name": "Dogue De Bordeaux",
+        "slogan": "Extremely loyal and devoted to it's master!",
+        "group": "Mastiff",
+        "skin_type": "Hair",
+        "lifespan": "8 years",
+        "weight": "45kg (100lbs)",
+        "color": "White",
+        "average_litter_size": "6"
+      }
+    },
+
+    {
+      "name": "Entlebucher Mountain Dog",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Canis",
+        "scientific_name": "Canis lupus"
+      },
+      "locations": [
+        "Europe"
+      ],
+      "characteristics": {
+        "temperament": "Intelligent, affectionate, stubborn",
+        "diet": "Omnivore",
+        "common_name": "Entlebucher Mountain Dog",
+        "slogan": "Native to parts of the Swiss Alps!",
+        "group": "Sennenhund",
+        "color": "BlackWhiteTan",
+        "skin_type": "Hair",
+        "lifespan": "12 years",
+        "weight": "30kg (65lbs)",
+        "average_litter_size": "4"
+      }
+    },
+    {
+      "name": "Eskimo Dog",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Canis",
+        "scientific_name": "Canis Lupus"
+      },
+      "locations": [
+        "North-America"
+      ],
+      "characteristics": {
+        "diet": "Omnivore",
+        "common_name": "Eskimo Dog",
+        "slogan": "Takes pure delight in cold weather!",
+        "group": "North",
+        "color": "BlackWhiteTan",
+        "skin_type": "Hair",
+        "lifespan": "14 years",
+        "weight": "47kg (105lbs)",
+        "average_litter_size": "3"
+      }
+    },
+    {
+      "name": "Estrela Mountain Dog",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Canis",
+        "scientific_name": "Canis lupus"
+      },
+      "locations": [
+        "Europe"
+      ],
+      "characteristics": {
+        "diet": "Omnivore",
+        "common_name": "Estrela Mountain Dog",
+        "slogan": "Very protective and stubborn!",
+        "group": "Guard",
+        "skin_type": "Hair",
+        "lifespan": "16 years",
+        "weight": "47kg (105lbs)","average_litter_size": "8"
+
+      }
+    },
+    {
+      "name": "Formosan Mountain Dog",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Canis",
+        "scientific_name": "Canis lupus"
+      },
+      "locations": [
+        "Asia"
+      ],
+      "characteristics": {
+        "name_of_young": "Puppy",
+        "temperament": "Loyal, intelligent, and protective",
+        "litter_size": "10-12 puppies",
+        "diet": "Omnivore",
+        "type": "mammal",
+        "origin": "Taiwan",
+        "color": "FawnBlackWhiteBrindle",
+        "skin_type": "Hair",
+        "lifespan": "10-13 years",
+        "average_litter_size": "9"
+      }
+    },
+    {
+      "name": "French Bulldog",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Canis",
+        "scientific_name": "Canis lupus"
+      },
+      "locations": [
+        "Europe"
+      ],
+      "characteristics": {
+        "temperament": "Affectionate, friendly, attention-demanding",
+        "diet": "Omnivore",
+        "common_name": "French Bulldog",
+        "slogan": " French bulldogs are known to be very sensitive, harboring emotions that they love to express",
+        "group": "Mastiff",
+        "color": "FawnWhiteTanBrindle",
+        "skin_type": "Hair",
+        "lifespan": "10 to 12 years",
+        "weight": "28 lbs",
+        "average_litter_size": "8"
+      }
+    },
+    {
+      "name": "Greater Swiss Mountain Dog",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Canis",
+        "scientific_name": "Canis lupus"
+      },
+      "locations": [
+        "Europe"
+      ],
+      "characteristics": {
+        "diet": "Omnivore",
+        "common_name": "Greater Swiss Mountain Dog",
+        "slogan": "Protective and gentle by nature!",
+        "group": "Sennenhund",
+        "skin_type": "Hair",
+        "lifespan": "12 years",
+        "weight": "59kg (130lbs)",
+        "color": "BlackWhiteTan",
+        "average_litter_size": "4"
+      }
+    },
+    {
+      "name": "Greenland Dog",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Canis",
+        "scientific_name": "Canis lupus"
+      },
+      "locations": [
+        "North-America"
+      ],
+      "characteristics": {
+        "diet": "Omnivore",
+        "common_name": "Greenland Dog",
+        "slogan": "Strong and speedy breed of dog!",
+        "color": "GreyBlack",
+        "skin_type": "Hair",
+        "lifespan": "12 years",
+        "weight": "30kg (66lbs)",
+        "average_litter_size": "4"
+      }
+    },
+    {
+      "name": "Icelandic Sheepdog",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Canis",
+        "scientific_name": "Canis lupus"
+      },
+      "locations": [
+        "Europe"
+      ],
+      "characteristics": {
+        "name_of_young": "puppy",
+        "most_distinctive_feature": "very bushy tail",
+        "temperament": "Playful, affectionate, and curious",
+        "litter_size": "4-8 puppies",
+        "diet": "Omnivore",
+        "type": "mammal",
+        "origin": "Iceland",
+        "color": "GreyFawnRedBlackWhiteGoldTanCreamChocolate",
+        "skin_type": "Hair",
+        "top_speed": "21 mph",
+        "lifespan": "12-14 years",
+        "average_litter_size": "7"
+      }
+    },
+    {
+      "name": "Old English Sheepdog",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Canis",
+        "scientific_name": "Canis Lupus"
+      },
+      "locations": [
+        "Europe"
+      ],
+      "characteristics": {
+        "diet": "Omnivore",
+        "common_name": "Old English Sheepdog",
+        "slogan": "Intelligent, sociable and playful!",
+        "group": "Herd",
+        "skin_type": "Hair",
+        "lifespan": "12 years",
+        "weight": "30kg (66lbs)",
+        "average_litter_size": "6"
+      }
+    },
+    {
+      "name": "Prairie Dog",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Rodentia",
+        "family": "Sciuridae",
+        "genus": "Cynomys"
+      },
+      "locations": [
+        "Central-America",
+        "North-America"
+      ],
+      "characteristics": {
+        "prey": "Roots, grasses, seeds, and insects",
+        "name_of_young": "Pups",
+        "group_behavior": "ColonyFamily units",
+        "estimated_population_size": "Unknown",
+        "biggest_threat": "Hunting and loss of habitats",
+        "most_distinctive_feature": "The sharp digging claws",
+        "other_name(s)": "Ground squirrel",
+        "gestation_period": "1 month",
+        "litter_size": "3-8 pups",
+        "habitat": "Prairies",
+        "predators": "Coyotes, badgers, ferrets, foxes, and birds of prey",
+        "diet": "Omnivore",
+        "type": "Mammal",
+        "common_name": "Prairie Dog",
+        "number_of_species": "5",
+        "location": "Western United States and Mexico",
+        "color": "BrownGreyBlackWhiteTan",
+        "skin_type": "Hair",
+        "top_speed": "35 mph",
+        "lifespan": "3-4 years on average",
+        "weight": "0.5-1.8kg (1-4lbs)",
+        "height": "15-18cm (6-7.3in)",
+        "length": "30-40cm (12-16in)",
+        "age_of_sexual_maturity": "1 year",
+        "age_of_weaning": "1-2 months",
+        "average_litter_size": "3"
+
+      }
+    },
+    {
+      "name": "Raccoon Dog",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Nyctereutes",
+        "scientific_name": "Nyctereutes procyonoides"
+      },
+      "locations": [
+        "Asia",
+        "Eurasia",
+        "Europe"
+      ],
+      "characteristics": {
+        "main_prey": "Frogs, Fish, Rodents",
+        "distinctive_feature": "Dexterous front paws and pointed snout",
+        "habitat": "Thick forests close to water",
+        "predators": "Foxes, Wolves, Wildcats",
+        "diet": "Carnivore",
+        "average_litter_size": "8",
+        "lifestyle": "Pack",
+        "favorite_food": "Frogs",
+        "type": "Mammal",
+        "slogan": "The only hibernating canine!",
+        "color": "BrownYellowBlackTan",
+        "skin_type": "Fur",
+        "top_speed": "25 mph",
+        "lifespan": "3 - 8 years",
+        "weight": "3kg - 10kg (6.6lbs - 22lbs)",
+        "length": "50cm - 65cm (19.6in - 26in)"
+      }
+    },
+    {
+      "name": "Russian Bear Dog",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Mammalia",
+        "order": "Carnivora",
+        "family": "Canidae",
+        "genus": "Canis",
+        "scientific_name": "Canis lupus"
+      },
+      "locations": [
+        "Eurasia"
+      ],
+      "characteristics": {
+        "temperament": "Bold and Fearless",
+        "diet": "Omnivore",
+        "color": "BrownGreyBlackCream",
+        "skin_type": "Hair",
+        "lifespan": "10 to 12 years",
+        "weight": "170 pounds",
+        "height": "23 to 30 inches",
+        "average_litter_size": "7"
+      }
+    },
+
+    {
+      "name": "Spiny Dogfish",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Chondrichthyes",
+        "order": "Squaliformes",
+        "family": "Squalidae",
+        "genus": "Squalus",
+        "scientific_name": "Squalus acanthias"
+      },
+      "locations": [
+        "Ocean"
+      ],
+      "characteristics": {
+        "prey": "Octopuses, crabs, squid, smaller sharks, jellyfish, shrimp, and sea cucumber",
+        "main_prey": "Fish, Squid, Crustaceans",
+        "group_behavior": "Pack",
+        "estimated_population_size": "Biomass of 106.8 thousand metric tons in the Atlantic Ocean; 44,660,000 fish in the Pacific Ocean",
+        "biggest_threat": "Overfishing",
+        "other_name(s)": "Dogfish Shark, Spiky Dog, Piked Dogfish, Rock Salmon, Spring Dogfish, White-Spotted Dogfish Predators: Sharks, Seals, Orcas, Tuna, American Anglerfish, Humans",
+        "water_type": "Salt",
+        "optimum_ph_level": "6.5-8.5",
+        "habitat": "Oceans and seas",
+        "predators": "Sharks, Whales, Humans",
+        "diet": "Carnivore",
+        "favorite_food": "Octopuses, crabs, squid, smaller sharks, jellyfish, shrimp, and sea cucumber",
+        "common_name": "Spiny Dogfish",
+        "number_of_species": "2",
+        "average_clutch_size": "6",
+        "slogan": "Found in ocean waters worldwide!",
+        "color": "BrownGreyBlackWhite",
+        "skin_type": "Smooth",
+        "lifespan": "Average of 20 to 24 years, but can live up to 50 years",
+        "weight": "8 pounds",
+        "length": "Maximum length of 39 inches (male); maximum length of 49 inches (female)",
+        "average_litter_size": "8"
+      }
+    },
+    {
+      "name": "Viper shark (dogfish)",
+      "taxonomy": {
+        "kingdom": "Animalia",
+        "phylum": "Chordata",
+        "class": "Chondrichthyes",
+        "order": "Squaliformes",
+        "family": "Etmopteridae",
+        "genus": "Trigonognathus",
+        "scientific_name": "Trigonognathus kabeyai"
+      },
+      "locations": [
+        "Ocean"
+      ],
+      "characteristics": {
+        "prey": "Bony fish",
+        "estimated_population_size": "Not recorded",
+        "biggest_threat": "Bigeye tuna, sickle pomfret.",
+        "most_distinctive_feature": "Triangular jaw and fang-like teeth",
+        "other_name(s)": "Viper dogfish, viper shark.",
+        "water_type": "Salt",
+        "habitat": "Deep water, upper continental slopes, seamounts.",
+        "predators": "Bigeye tuna, sickle pomfret.",
+        "diet": "Carnivore",
+        "type": "Fish",
+        "common_name": "Viper dogfish",
+        "number_of_species": "1",
+        "color": "Black",
+        "skin_type": "Rough",
+        "weight": "Up to 1.7 lbs.",
+        "length": "up to 53 centimeters (21 inches)",
+        "average_litter_size": "8"
+      }
+    }
+  ]
+
+}
